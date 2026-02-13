@@ -1,0 +1,7132 @@
+[
+  {
+    "id": "tropical-energy-blast",
+    "name": "Tropical Energy Blast",
+    "heroIcon": "sun",
+    "heroColor": "#F57F17",
+    "tagline": "Mango, pineapple, and coconut water for all-day energy",
+    "goal": "energy",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 245,
+    "ingredients": [
+      {
+        "emoji": "🥭",
+        "name": "Mango chunks",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍍",
+        "name": "Pineapple",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice cubes",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sparkles",
+        "color": "#FF6F00",
+        "label": "PREP",
+        "text": "Add mango, pineapple, and banana to blender"
+      },
+      {
+        "icon": "droplets",
+        "color": "#00BCD4",
+        "label": "ADD",
+        "text": "Pour in coconut water and lime juice"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFC107",
+        "label": "BLEND",
+        "text": "Blend on high until smooth and creamy"
+      },
+      {
+        "icon": "coffee",
+        "color": "#FF9800",
+        "label": "POUR",
+        "text": "Pour into glass and enjoy immediately"
+      }
+    ],
+    "nutrition": {
+      "calories": 245,
+      "protein": 3,
+      "fiber": 5,
+      "sugar": 42
+    },
+    "tip": "Add a scoop of chia seeds for extra omega-3s and sustained energy",
+    "variations": [
+      "Add 1/2 cup frozen passion fruit for tropical tang",
+      "Blend in 1 tbsp hemp seeds for plant-based protein",
+      "Use fresh ginger for a spicy kick"
+    ],
+    "likes": 387,
+    "createdAt": "2024-06-15T10:30:00Z",
+    "featured": true
+  },
+  {
+    "id": "matcha-green-power",
+    "name": "Matcha Green Power",
+    "heroIcon": "leaf",
+    "heroColor": "#558B2F",
+    "tagline": "Matcha and spinach for clean, focused energy without the crash",
+    "goal": "energy",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 195,
+    "ingredients": [
+      {
+        "emoji": "🍵",
+        "name": "Matcha powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🍃",
+        "name": "Spinach",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#4CAF50",
+        "label": "ADD",
+        "text": "Combine spinach, banana, and matcha powder"
+      },
+      {
+        "icon": "milk",
+        "color": "#FFFAF0",
+        "label": "POUR",
+        "text": "Add almond milk and honey"
+      },
+      {
+        "icon": "zap",
+        "color": "#8BC34A",
+        "label": "BLEND",
+        "text": "Blend until vibrant green and smooth"
+      }
+    ],
+    "nutrition": {
+      "calories": 195,
+      "protein": 4,
+      "fiber": 6,
+      "sugar": 22
+    },
+    "tip": "Use frozen banana for creamier texture and skip the ice",
+    "variations": [
+      "Add 1/2 avocado for healthy fats",
+      "Swap honey for dates for refined sugar-free",
+      "Add a handful of mint leaves for fresh flavor"
+    ],
+    "likes": 294,
+    "createdAt": "2024-08-22T09:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "coffee-banana-kickstart",
+    "name": "Coffee Banana Kickstart",
+    "heroIcon": "coffee",
+    "heroColor": "#4E342E",
+    "tagline": "Cold brew and banana for a breakfast energy boost in seconds",
+    "goal": "energy",
+    "flavor": "nutty",
+    "diet": [
+      "vegan",
+      "dairy-free"
+    ],
+    "prepTime": "3 min",
+    "servings": 1,
+    "calories": 215,
+    "ingredients": [
+      {
+        "emoji": "☕",
+        "name": "Cold brew coffee",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 large"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Oat milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Maple syrup",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "coffee",
+        "color": "#6F4E37",
+        "label": "PREP",
+        "text": "Add banana, almond butter, and cold brew"
+      },
+      {
+        "icon": "milk",
+        "color": "#D7CCC8",
+        "label": "ADD",
+        "text": "Pour in oat milk and maple syrup"
+      },
+      {
+        "icon": "zap",
+        "color": "#8D6E63",
+        "label": "BLEND",
+        "text": "Blend until frothy and creamy"
+      }
+    ],
+    "nutrition": {
+      "calories": 215,
+      "protein": 6,
+      "fiber": 4,
+      "sugar": 19
+    },
+    "tip": "Freeze leftover coffee in ice cube trays for extra coffee flavor",
+    "variations": [
+      "Add 1 scoop vanilla protein powder",
+      "Use espresso instead of cold brew for stronger kick",
+      "Blend in cacao nibs for mocha flavor"
+    ],
+    "likes": 412,
+    "createdAt": "2024-09-10T07:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "peanut-butter-power-shake",
+    "name": "Peanut Butter Power Shake",
+    "heroIcon": "dumbbell",
+    "heroColor": "#BF360C",
+    "tagline": "Packed with 28g protein for muscle recovery and sustained fullness",
+    "goal": "protein",
+    "flavor": "nutty",
+    "diet": [
+      "high-protein"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 445,
+    "ingredients": [
+      {
+        "emoji": "🥜",
+        "name": "Peanut butter",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Whole milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "💪",
+        "name": "Vanilla protein powder",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🥣",
+        "name": "Rolled oats",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "nut",
+        "color": "#A1887F",
+        "label": "ADD",
+        "text": "Combine peanut butter, banana, and oats"
+      },
+      {
+        "icon": "milk",
+        "color": "#FFFFFF",
+        "label": "POUR",
+        "text": "Add milk, protein powder, and honey"
+      },
+      {
+        "icon": "zap",
+        "color": "#8D6E63",
+        "label": "BLEND",
+        "text": "Blend until thick and creamy"
+      },
+      {
+        "icon": "trophy",
+        "color": "#FFD700",
+        "label": "POUR",
+        "text": "Pour and enjoy post-workout"
+      }
+    ],
+    "nutrition": {
+      "calories": 445,
+      "protein": 28,
+      "fiber": 6,
+      "sugar": 28
+    },
+    "tip": "Make ahead and refrigerate for up to 12 hours for grab-and-go protein",
+    "variations": [
+      "Use chocolate protein powder for Reese's flavor",
+      "Add 1 tbsp flax seeds for omega-3s",
+      "Swap peanut butter for almond butter"
+    ],
+    "likes": 501,
+    "createdAt": "2024-07-18T11:20:00Z",
+    "featured": true
+  },
+  {
+    "id": "greek-berry-blast",
+    "name": "Greek Berry Blast",
+    "heroIcon": "grape",
+    "heroColor": "#6A1B9A",
+    "tagline": "Greek yogurt and mixed berries deliver 22g protein per serving",
+    "goal": "protein",
+    "flavor": "berry",
+    "diet": [
+      "high-protein",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 320,
+    "ingredients": [
+      {
+        "emoji": "🍇",
+        "name": "Greek yogurt",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "💪",
+        "name": "Vanilla protein powder",
+        "amount": "1/2 scoop"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "grape",
+        "color": "#7B1FA2",
+        "label": "PREP",
+        "text": "Add Greek yogurt and mixed berries"
+      },
+      {
+        "icon": "milk",
+        "color": "#F5F5F5",
+        "label": "ADD",
+        "text": "Pour in almond milk and protein powder"
+      },
+      {
+        "icon": "zap",
+        "color": "#9C27B0",
+        "label": "BLEND",
+        "text": "Blend until thick and berry-licious"
+      }
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 22,
+      "fiber": 4,
+      "sugar": 24
+    },
+    "tip": "Use frozen berries to skip ice and get a thicker shake",
+    "variations": [
+      "Add 1 tbsp chia seeds for extra fiber",
+      "Use coconut yogurt for dairy-free option",
+      "Blend in spinach for hidden greens"
+    ],
+    "likes": 356,
+    "createdAt": "2024-10-05T08:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "chocolate-avocado-muscle",
+    "name": "Chocolate Avocado Muscle",
+    "heroIcon": "cookie",
+    "heroColor": "#3E2723",
+    "tagline": "Creamy avocado and cocoa create a decadent 24g protein treat",
+    "goal": "protein",
+    "flavor": "chocolate",
+    "diet": [
+      "high-protein",
+      "dairy-free",
+      "vegan"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 385,
+    "ingredients": [
+      {
+        "emoji": "🥑",
+        "name": "Avocado",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🍫",
+        "name": "Cacao powder",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "💪",
+        "name": "Chocolate protein powder",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 small"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Maple syrup",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "cookie",
+        "color": "#5D4037",
+        "label": "PREP",
+        "text": "Scoop avocado and add cacao powder"
+      },
+      {
+        "icon": "dumbbell",
+        "color": "#6D4C41",
+        "label": "ADD",
+        "text": "Add protein powder, banana, and maple syrup"
+      },
+      {
+        "icon": "milk",
+        "color": "#BCAAA4",
+        "label": "POUR",
+        "text": "Pour in almond milk and ice"
+      },
+      {
+        "icon": "zap",
+        "color": "#4E342E",
+        "label": "BLEND",
+        "text": "Blend until ultra-creamy and smooth"
+      }
+    ],
+    "nutrition": {
+      "calories": 385,
+      "protein": 24,
+      "fiber": 11,
+      "sugar": 20
+    },
+    "tip": "The avocado makes this incredibly creamy without any dairy",
+    "variations": [
+      "Add 1 tsp espresso powder for mocha version",
+      "Use peanut butter instead of avocado",
+      "Top with cacao nibs for crunch"
+    ],
+    "likes": 423,
+    "createdAt": "2024-11-12T14:10:00Z",
+    "featured": false
+  },
+  {
+    "id": "green-goddess-cleanse",
+    "name": "Green Goddess Cleanse",
+    "heroIcon": "leaf",
+    "heroColor": "#1B5E20",
+    "tagline": "Kale, cucumber, and lemon flush toxins while tasting refreshing",
+    "goal": "detox",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar",
+      "paleo"
+    ],
+    "prepTime": "6 min",
+    "servings": 1,
+    "calories": 165,
+    "ingredients": [
+      {
+        "emoji": "🥬",
+        "name": "Kale",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh ginger",
+        "amount": "1 inch"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#2E7D32",
+        "label": "PREP",
+        "text": "Add kale, cucumber, and chopped apple"
+      },
+      {
+        "icon": "citrus",
+        "color": "#FDD835",
+        "label": "ADD",
+        "text": "Add lemon juice and fresh ginger"
+      },
+      {
+        "icon": "droplets",
+        "color": "#4DD0E1",
+        "label": "POUR",
+        "text": "Pour in coconut water and ice"
+      },
+      {
+        "icon": "zap",
+        "color": "#66BB6A",
+        "label": "BLEND",
+        "text": "Blend until smooth and vibrant green"
+      }
+    ],
+    "nutrition": {
+      "calories": 165,
+      "protein": 4,
+      "fiber": 5,
+      "sugar": 18
+    },
+    "tip": "Drink first thing in the morning for maximum detox benefits",
+    "variations": [
+      "Add 1/2 cup pineapple for sweetness",
+      "Use celery instead of cucumber",
+      "Blend in fresh mint for cooling effect"
+    ],
+    "likes": 289,
+    "createdAt": "2024-05-20T06:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "beetroot-berry-detox",
+    "name": "Beetroot Berry Detox",
+    "heroIcon": "heart",
+    "heroColor": "#AD1457",
+    "tagline": "Beets and berries support liver health with antioxidant power",
+    "goal": "detox",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 190,
+    "ingredients": [
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🟣",
+        "name": "Cooked beet",
+        "amount": "1/2 small"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange juice",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh mint",
+        "amount": "5 leaves"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "heart",
+        "color": "#C2185B",
+        "label": "PREP",
+        "text": "Add berries and chopped cooked beet"
+      },
+      {
+        "icon": "citrus",
+        "color": "#FF6F00",
+        "label": "POUR",
+        "text": "Pour in orange and lemon juice"
+      },
+      {
+        "icon": "leaf",
+        "color": "#00C853",
+        "label": "ADD",
+        "text": "Toss in fresh mint leaves"
+      },
+      {
+        "icon": "zap",
+        "color": "#E91E63",
+        "label": "BLEND",
+        "text": "Blend until deep magenta and smooth"
+      }
+    ],
+    "nutrition": {
+      "calories": 190,
+      "protein": 3,
+      "fiber": 6,
+      "sugar": 32
+    },
+    "tip": "Roast beets in advance and store in fridge for quick smoothie prep",
+    "variations": [
+      "Add 1/2 cup pomegranate juice for extra antioxidants",
+      "Use raspberries instead of strawberries",
+      "Blend in 1 tbsp chia seeds for fiber"
+    ],
+    "likes": 267,
+    "createdAt": "2024-08-08T07:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "pineapple-turmeric-flush",
+    "name": "Pineapple Turmeric Flush",
+    "heroIcon": "sun",
+    "heroColor": "#FF6F00",
+    "tagline": "Anti-inflammatory turmeric and pineapple enzymes aid digestion",
+    "goal": "detox",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo",
+      "whole30"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 175,
+    "ingredients": [
+      {
+        "emoji": "🍍",
+        "name": "Pineapple",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🧡",
+        "name": "Turmeric powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh ginger",
+        "amount": "1 inch"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Black pepper",
+        "amount": "pinch"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sun",
+        "color": "#FFA000",
+        "label": "PREP",
+        "text": "Add pineapple, turmeric, and ginger"
+      },
+      {
+        "icon": "droplets",
+        "color": "#00BCD4",
+        "label": "POUR",
+        "text": "Pour in coconut water and lime juice"
+      },
+      {
+        "icon": "zap",
+        "color": "#FF9800",
+        "label": "BLEND",
+        "text": "Blend until golden and frothy"
+      }
+    ],
+    "nutrition": {
+      "calories": 175,
+      "protein": 2,
+      "fiber": 4,
+      "sugar": 28
+    },
+    "tip": "Add black pepper to boost turmeric absorption by up to 2000%",
+    "variations": [
+      "Add 1/2 cup mango for extra sweetness",
+      "Use fresh turmeric root instead of powder",
+      "Blend in 1 tbsp flax seeds"
+    ],
+    "likes": 318,
+    "createdAt": "2024-09-25T08:45:00Z",
+    "featured": true
+  },
+  {
+    "id": "citrus-immunity-shield",
+    "name": "Citrus Immunity Shield",
+    "heroIcon": "shield",
+    "heroColor": "#FF6D00",
+    "tagline": "Orange, grapefruit, and ginger pack 200% daily vitamin C",
+    "goal": "immunity",
+    "flavor": "citrus",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 185,
+    "ingredients": [
+      {
+        "emoji": "🍊",
+        "name": "Orange",
+        "amount": "1 large"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Grapefruit",
+        "amount": "1/2"
+      },
+      {
+        "emoji": "🥕",
+        "name": "Carrot",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh ginger",
+        "amount": "1 inch"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "💧",
+        "name": "Water",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "citrus",
+        "color": "#FF9800",
+        "label": "PREP",
+        "text": "Peel and segment orange and grapefruit"
+      },
+      {
+        "icon": "carrot",
+        "color": "#FF6F00",
+        "label": "ADD",
+        "text": "Add chopped carrot and ginger"
+      },
+      {
+        "icon": "droplets",
+        "color": "#03A9F4",
+        "label": "POUR",
+        "text": "Pour in water and honey"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFC107",
+        "label": "BLEND",
+        "text": "Blend until bright orange and smooth"
+      }
+    ],
+    "nutrition": {
+      "calories": 185,
+      "protein": 3,
+      "fiber": 7,
+      "sugar": 30
+    },
+    "tip": "Drink within 15 minutes to preserve maximum vitamin C content",
+    "variations": [
+      "Add 1/2 cup mango for tropical twist",
+      "Use turmeric instead of ginger",
+      "Blend in 1 tbsp bee pollen for extra immunity"
+    ],
+    "likes": 342,
+    "createdAt": "2024-10-30T09:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "berry-elderberry-defense",
+    "name": "Berry Elderberry Defense",
+    "heroIcon": "shield",
+    "heroColor": "#4A148C",
+    "tagline": "Elderberry and mixed berries fight colds with antioxidant punch",
+    "goal": "immunity",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 205,
+    "ingredients": [
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍒",
+        "name": "Elderberry syrup",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "grape",
+        "color": "#6A1B9A",
+        "label": "PREP",
+        "text": "Add mixed berries and banana"
+      },
+      {
+        "icon": "shield",
+        "color": "#7B1FA2",
+        "label": "ADD",
+        "text": "Pour in elderberry syrup and honey"
+      },
+      {
+        "icon": "milk",
+        "color": "#F3E5F5",
+        "label": "POUR",
+        "text": "Add almond milk and ice"
+      },
+      {
+        "icon": "zap",
+        "color": "#9C27B0",
+        "label": "BLEND",
+        "text": "Blend until deep purple and creamy"
+      }
+    ],
+    "nutrition": {
+      "calories": 205,
+      "protein": 3,
+      "fiber": 6,
+      "sugar": 32
+    },
+    "tip": "Keep elderberry syrup in pantry for quick immune-boosting additions",
+    "variations": [
+      "Add 1/2 cup acai puree for extra antioxidants",
+      "Use blackberries instead of strawberries",
+      "Blend in 1 tsp spirulina for green boost"
+    ],
+    "likes": 278,
+    "createdAt": "2024-11-18T10:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "tropical-vitamin-c-bomb",
+    "name": "Tropical Vitamin C Bomb",
+    "heroIcon": "sun",
+    "heroColor": "#F57C00",
+    "tagline": "Mango, papaya, and kiwi deliver immune-boosting tropical vitamins",
+    "goal": "immunity",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 220,
+    "ingredients": [
+      {
+        "emoji": "🥭",
+        "name": "Mango",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍈",
+        "name": "Papaya",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥝",
+        "name": "Kiwi",
+        "amount": "1 whole"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange juice",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut yogurt",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sun",
+        "color": "#FF8F00",
+        "label": "PREP",
+        "text": "Add mango, papaya, and peeled kiwi"
+      },
+      {
+        "icon": "citrus",
+        "color": "#FB8C00",
+        "label": "POUR",
+        "text": "Pour in orange juice and add coconut yogurt"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFA726",
+        "label": "BLEND",
+        "text": "Blend until tropical orange and creamy"
+      }
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 4,
+      "fiber": 6,
+      "sugar": 38
+    },
+    "tip": "Use frozen tropical fruit blend for convenience and no ice needed",
+    "variations": [
+      "Add 1/2 cup pineapple for extra tang",
+      "Use guava juice instead of orange juice",
+      "Blend in 1 tbsp chia seeds for texture"
+    ],
+    "likes": 365,
+    "createdAt": "2025-01-05T11:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "cucumber-mint-refresh",
+    "name": "Cucumber Mint Refresh",
+    "heroIcon": "droplets",
+    "heroColor": "#00BFA5",
+    "tagline": "Hydrating cucumber and mint create a light, slimming sipper",
+    "goal": "weight-loss",
+    "flavor": "refreshing",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar",
+      "keto"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 85,
+    "ingredients": [
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh mint",
+        "amount": "10 leaves"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 small"
+      },
+      {
+        "emoji": "💧",
+        "name": "Water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "droplets",
+        "color": "#26A69A",
+        "label": "PREP",
+        "text": "Chop cucumber and apple into chunks"
+      },
+      {
+        "icon": "leaf",
+        "color": "#00C853",
+        "label": "ADD",
+        "text": "Add mint leaves and lemon juice"
+      },
+      {
+        "icon": "waves",
+        "color": "#00ACC1",
+        "label": "POUR",
+        "text": "Pour in water and ice"
+      },
+      {
+        "icon": "zap",
+        "color": "#00897B",
+        "label": "BLEND",
+        "text": "Blend until light green and refreshing"
+      }
+    ],
+    "nutrition": {
+      "calories": 85,
+      "protein": 2,
+      "fiber": 4,
+      "sugar": 12
+    },
+    "tip": "Muddle mint leaves before blending to release extra flavor oils",
+    "variations": [
+      "Add 1/2 cup coconut water for electrolytes",
+      "Use lime instead of lemon",
+      "Blend in fresh basil for herbal twist"
+    ],
+    "likes": 221,
+    "createdAt": "2024-07-02T08:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "green-metabolism-boost",
+    "name": "Green Metabolism Boost",
+    "heroIcon": "zap",
+    "heroColor": "#7CB342",
+    "tagline": "Green tea and spinach fire up metabolism with minimal calories",
+    "goal": "weight-loss",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar",
+      "keto"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 95,
+    "ingredients": [
+      {
+        "emoji": "🍵",
+        "name": "Brewed green tea",
+        "amount": "1 cup, chilled"
+      },
+      {
+        "emoji": "🍃",
+        "name": "Spinach",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥒",
+        "name": "Celery",
+        "amount": "1 stalk"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 small"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#689F38",
+        "label": "PREP",
+        "text": "Add spinach, celery, and apple"
+      },
+      {
+        "icon": "droplets",
+        "color": "#558B2F",
+        "label": "POUR",
+        "text": "Pour in chilled green tea and lemon"
+      },
+      {
+        "icon": "zap",
+        "color": "#8BC34A",
+        "label": "BLEND",
+        "text": "Blend until metabolism-boosting green"
+      }
+    ],
+    "nutrition": {
+      "calories": 95,
+      "protein": 3,
+      "fiber": 5,
+      "sugar": 11
+    },
+    "tip": "Brew green tea the night before and chill for faster morning prep",
+    "variations": [
+      "Add 1/2 avocado for healthy fats",
+      "Use matcha instead of green tea",
+      "Blend in cucumber for extra hydration"
+    ],
+    "likes": 198,
+    "createdAt": "2024-12-01T07:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "cherry-tart-recovery",
+    "name": "Cherry Tart Recovery",
+    "heroIcon": "cherry",
+    "heroColor": "#C62828",
+    "tagline": "Tart cherry juice reduces muscle soreness and inflammation fast",
+    "goal": "recovery",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free"
+    ],
+    "prepTime": "3 min",
+    "servings": 1,
+    "calories": 240,
+    "ingredients": [
+      {
+        "emoji": "🍒",
+        "name": "Tart cherry juice",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "💪",
+        "name": "Vanilla protein powder",
+        "amount": "1/2 scoop"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "cherry",
+        "color": "#D32F2F",
+        "label": "PREP",
+        "text": "Add banana and strawberries"
+      },
+      {
+        "icon": "droplets",
+        "color": "#B71C1C",
+        "label": "POUR",
+        "text": "Pour in tart cherry juice"
+      },
+      {
+        "icon": "dumbbell",
+        "color": "#E53935",
+        "label": "ADD",
+        "text": "Add protein powder and ice"
+      },
+      {
+        "icon": "zap",
+        "color": "#EF5350",
+        "label": "BLEND",
+        "text": "Blend until deep red and smooth"
+      }
+    ],
+    "nutrition": {
+      "calories": 240,
+      "protein": 12,
+      "fiber": 5,
+      "sugar": 35
+    },
+    "tip": "Drink within 30 minutes post-workout for optimal recovery benefits",
+    "variations": [
+      "Add 1 tbsp almond butter for healthy fats",
+      "Use frozen cherries instead of juice",
+      "Blend in 1 tsp turmeric for extra anti-inflammatory"
+    ],
+    "likes": 314,
+    "createdAt": "2024-06-28T16:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "coconut-protein-repair",
+    "name": "Coconut Protein Repair",
+    "heroIcon": "dumbbell",
+    "heroColor": "#00695C",
+    "tagline": "Coconut milk and protein help rebuild muscles after intense workouts",
+    "goal": "recovery",
+    "flavor": "creamy",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "high-protein"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 315,
+    "ingredients": [
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 large"
+      },
+      {
+        "emoji": "💪",
+        "name": "Vanilla protein powder",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "milk",
+        "color": "#FAFAFA",
+        "label": "PREP",
+        "text": "Add banana and almond butter"
+      },
+      {
+        "icon": "dumbbell",
+        "color": "#00897B",
+        "label": "ADD",
+        "text": "Add protein powder and honey"
+      },
+      {
+        "icon": "droplets",
+        "color": "#E0F2F1",
+        "label": "POUR",
+        "text": "Pour in coconut milk and ice"
+      },
+      {
+        "icon": "zap",
+        "color": "#26A69A",
+        "label": "BLEND",
+        "text": "Blend until thick and tropical creamy"
+      }
+    ],
+    "nutrition": {
+      "calories": 315,
+      "protein": 20,
+      "fiber": 4,
+      "sugar": 22
+    },
+    "tip": "Use full-fat coconut milk for maximum recovery benefits and satiety",
+    "variations": [
+      "Add 1/2 cup mango for tropical flavor",
+      "Use cashew butter instead of almond",
+      "Blend in 1 tbsp hemp seeds for omega-3s"
+    ],
+    "likes": 267,
+    "createdAt": "2024-09-14T17:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "berry-collagen-glow",
+    "name": "Berry Collagen Glow",
+    "heroIcon": "sparkles",
+    "heroColor": "#E91E63",
+    "tagline": "Berries and collagen peptides support radiant skin from within",
+    "goal": "beauty",
+    "flavor": "berry",
+    "diet": [
+      "dairy-free",
+      "low-sugar",
+      "paleo"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 185,
+    "ingredients": [
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "✨",
+        "name": "Collagen peptides",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "grape",
+        "color": "#C2185B",
+        "label": "PREP",
+        "text": "Add berries and collagen peptides"
+      },
+      {
+        "icon": "droplets",
+        "color": "#00BCD4",
+        "label": "POUR",
+        "text": "Pour in coconut water and lemon juice"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#F06292",
+        "label": "BLEND",
+        "text": "Blend until pink and glowing smooth"
+      }
+    ],
+    "nutrition": {
+      "calories": 185,
+      "protein": 10,
+      "fiber": 4,
+      "sugar": 24
+    },
+    "tip": "Drink daily for 8 weeks to see visible improvements in skin elasticity",
+    "variations": [
+      "Add 1/2 cup pomegranate juice for extra antioxidants",
+      "Use raspberries instead of strawberries",
+      "Blend in 1 tbsp chia seeds for omega-3s"
+    ],
+    "likes": 445,
+    "createdAt": "2024-10-12T09:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "avocado-glow-smoothie",
+    "name": "Avocado Glow Smoothie",
+    "heroIcon": "sparkles",
+    "heroColor": "#558B2F",
+    "tagline": "Avocado and spinach deliver healthy fats for supple, glowing skin",
+    "goal": "beauty",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "keto",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 275,
+    "ingredients": [
+      {
+        "emoji": "🥑",
+        "name": "Avocado",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🍃",
+        "name": "Spinach",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh mint",
+        "amount": "5 leaves"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#689F38",
+        "label": "PREP",
+        "text": "Scoop avocado and add spinach and cucumber"
+      },
+      {
+        "icon": "droplets",
+        "color": "#00ACC1",
+        "label": "POUR",
+        "text": "Pour in coconut water and lemon juice"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#7CB342",
+        "label": "BLEND",
+        "text": "Blend until creamy green and luxurious"
+      }
+    ],
+    "nutrition": {
+      "calories": 275,
+      "protein": 4,
+      "fiber": 9,
+      "sugar": 10
+    },
+    "tip": "The healthy fats in avocado help your body absorb vitamins A and E",
+    "variations": [
+      "Add 1/2 green apple for subtle sweetness",
+      "Use kale instead of spinach",
+      "Blend in 1 tbsp hemp seeds for protein"
+    ],
+    "likes": 389,
+    "createdAt": "2025-01-08T10:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "lavender-blueberry-calm",
+    "name": "Lavender Blueberry Calm",
+    "heroIcon": "moon",
+    "heroColor": "#5E35B1",
+    "tagline": "Lavender and blueberries naturally soothe stress and promote relaxation",
+    "goal": "calm",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 195,
+    "ingredients": [
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌸",
+        "name": "Dried lavender",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "grape",
+        "color": "#673AB7",
+        "label": "PREP",
+        "text": "Add blueberries, banana, and lavender"
+      },
+      {
+        "icon": "milk",
+        "color": "#E1BEE7",
+        "label": "POUR",
+        "text": "Pour in almond milk and honey"
+      },
+      {
+        "icon": "moon",
+        "color": "#7E57C2",
+        "label": "BLEND",
+        "text": "Blend until calming purple and smooth"
+      }
+    ],
+    "nutrition": {
+      "calories": 195,
+      "protein": 3,
+      "fiber": 5,
+      "sugar": 28
+    },
+    "tip": "Use culinary-grade dried lavender and start with less - a little goes far",
+    "variations": [
+      "Add 1/2 cup tart cherry juice for melatonin",
+      "Use vanilla extract instead of lavender",
+      "Blend in 1 tbsp almond butter for creaminess"
+    ],
+    "likes": 256,
+    "createdAt": "2024-11-22T20:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "banana-oat-bedtime",
+    "name": "Banana Oat Bedtime",
+    "heroIcon": "moon",
+    "heroColor": "#455A64",
+    "tagline": "Oats and banana provide tryptophan for natural sleep support",
+    "goal": "calm",
+    "flavor": "creamy",
+    "diet": [
+      "vegan",
+      "dairy-free"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 285,
+    "ingredients": [
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 large"
+      },
+      {
+        "emoji": "🥣",
+        "name": "Rolled oats",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Oat milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Cinnamon",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "banana",
+        "color": "#FFD54F",
+        "label": "PREP",
+        "text": "Add banana, oats, and almond butter"
+      },
+      {
+        "icon": "milk",
+        "color": "#EFEBE9",
+        "label": "POUR",
+        "text": "Pour in oat milk and add honey"
+      },
+      {
+        "icon": "star",
+        "color": "#D7CCC8",
+        "label": "ADD",
+        "text": "Sprinkle cinnamon for warmth"
+      },
+      {
+        "icon": "moon",
+        "color": "#90A4AE",
+        "label": "BLEND",
+        "text": "Blend until creamy and sleep-inducing"
+      }
+    ],
+    "nutrition": {
+      "calories": 285,
+      "protein": 7,
+      "fiber": 6,
+      "sugar": 24
+    },
+    "tip": "Drink 30-60 minutes before bed for best sleep-promoting effects",
+    "variations": [
+      "Add 1/2 tsp vanilla extract",
+      "Use date syrup instead of honey",
+      "Blend in 1 tbsp chia seeds for extra magnesium"
+    ],
+    "likes": 312,
+    "createdAt": "2024-12-15T19:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "golden-sunrise-energizer",
+    "name": "Golden Sunrise Energizer",
+    "heroIcon": "sun",
+    "heroColor": "#F59E0B",
+    "tagline": "Start your day with a burst of tropical energy and natural caffeine.",
+    "goal": "energy",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 245,
+    "ingredients": [
+      {
+        "emoji": "🥭",
+        "name": "Mango chunks",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange juice",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch"
+      },
+      {
+        "emoji": "🍵",
+        "name": "Matcha powder",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sparkles",
+        "color": "#6B7280",
+        "label": "PREP",
+        "text": "Peel ginger and slice banana"
+      },
+      {
+        "icon": "waves",
+        "color": "#3B82F6",
+        "label": "ADD",
+        "text": "Combine all ingredients in blender"
+      },
+      {
+        "icon": "zap",
+        "color": "#F59E0B",
+        "label": "BLEND",
+        "text": "Blend on high for 45 seconds until smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#10B981",
+        "label": "POUR",
+        "text": "Pour into glass and enjoy immediately"
+      }
+    ],
+    "nutrition": {
+      "calories": 245,
+      "protein": 3,
+      "fiber": 5,
+      "sugar": 38
+    },
+    "tip": "Add a pinch of cayenne pepper for an extra metabolic boost",
+    "variations": [
+      "Swap matcha for yerba mate powder",
+      "Add 1 tbsp chia seeds for sustained energy",
+      "Use pineapple instead of mango for more tang"
+    ],
+    "likes": 287,
+    "createdAt": "2024-08-15T10:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "crimson-power-surge",
+    "name": "Crimson Power Surge",
+    "heroIcon": "flame",
+    "heroColor": "#DC2626",
+    "tagline": "Beet-powered energy blend to fuel your most demanding workouts.",
+    "goal": "energy",
+    "flavor": "refreshing",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "6 min",
+    "servings": 1,
+    "calories": 198,
+    "ingredients": [
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥕",
+        "name": "Cooked beet",
+        "amount": "1/2 small"
+      },
+      {
+        "emoji": "🍎",
+        "name": "Red apple",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh mint",
+        "amount": "5 leaves"
+      },
+      {
+        "emoji": "💧",
+        "name": "Coconut water",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice cubes",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sparkles",
+        "color": "#6B7280",
+        "label": "PREP",
+        "text": "Chop beet and apple into chunks"
+      },
+      {
+        "icon": "waves",
+        "color": "#3B82F6",
+        "label": "BLEND",
+        "text": "Blend all ingredients for 60 seconds"
+      },
+      {
+        "icon": "droplets",
+        "color": "#DC2626",
+        "label": "POUR",
+        "text": "Pour into tall glass"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#10B981",
+        "label": "GARNISH",
+        "text": "Top with fresh mint sprig"
+      }
+    ],
+    "nutrition": {
+      "calories": 198,
+      "protein": 2,
+      "fiber": 6,
+      "sugar": 28
+    },
+    "tip": "Roast beets in advance and store in fridge for quick prep",
+    "variations": [
+      "Add 1/2 tsp spirulina for extra endurance",
+      "Use pomegranate juice instead of coconut water",
+      "Include 1 tbsp hemp seeds for omega-3s"
+    ],
+    "likes": 156,
+    "createdAt": "2024-09-22T07:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "hulk-protein-punch",
+    "name": "Hulk Protein Punch",
+    "heroIcon": "dumbbell",
+    "heroColor": "#059669",
+    "tagline": "Plant-based muscle builder packed with complete amino acids.",
+    "goal": "protein",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "high-protein",
+      "dairy-free"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 385,
+    "ingredients": [
+      {
+        "emoji": "🥬",
+        "name": "Spinach",
+        "amount": "2 cups"
+      },
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥑",
+        "name": "Avocado",
+        "amount": "1/4 medium"
+      },
+      {
+        "emoji": "🫘",
+        "name": "Hemp seeds",
+        "amount": "3 tbsp"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Almond milk",
+        "amount": "1 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#10B981",
+        "label": "PREP",
+        "text": "Wash greens and chop cucumber"
+      },
+      {
+        "icon": "waves",
+        "color": "#3B82F6",
+        "label": "ADD",
+        "text": "Layer ingredients starting with liquids"
+      },
+      {
+        "icon": "zap",
+        "color": "#059669",
+        "label": "BLEND",
+        "text": "Blend on high for 90 seconds until creamy"
+      },
+      {
+        "icon": "droplets",
+        "color": "#10B981",
+        "label": "POUR",
+        "text": "Pour and serve with a straw"
+      }
+    ],
+    "nutrition": {
+      "calories": 385,
+      "protein": 18,
+      "fiber": 10,
+      "sugar": 19
+    },
+    "tip": "Freeze banana chunks for a thicker, milkshake-like texture",
+    "variations": [
+      "Add vegan protein powder for 25g+ protein",
+      "Swap hemp for pumpkin seeds",
+      "Use kale instead of spinach for different nutrient profile"
+    ],
+    "likes": 412,
+    "createdAt": "2024-07-11T14:20:00Z",
+    "featured": true
+  },
+  {
+    "id": "chocolate-warrior-shake",
+    "name": "Chocolate Warrior Shake",
+    "heroIcon": "trophy",
+    "heroColor": "#78350F",
+    "tagline": "Decadent chocolate protein bomb that tastes like dessert.",
+    "goal": "protein",
+    "flavor": "chocolate",
+    "diet": [
+      "high-protein",
+      "keto",
+      "low-sugar"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 420,
+    "ingredients": [
+      {
+        "emoji": "🍫",
+        "name": "Cacao powder",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Greek yogurt",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Peanut butter",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "☕",
+        "name": "Cold brew coffee",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice cubes",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#3B82F6",
+        "label": "ADD",
+        "text": "Add coffee and yogurt to blender first"
+      },
+      {
+        "icon": "coffee",
+        "color": "#78350F",
+        "label": "MIX",
+        "text": "Add remaining ingredients"
+      },
+      {
+        "icon": "zap",
+        "color": "#92400E",
+        "label": "BLEND",
+        "text": "Blend until thick and creamy"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#F59E0B",
+        "label": "TOP",
+        "text": "Garnish with cacao nibs if desired"
+      }
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 25,
+      "fiber": 7,
+      "sugar": 22
+    },
+    "tip": "Use frozen coffee cubes instead of ice for stronger flavor",
+    "variations": [
+      "Add 1 scoop chocolate protein powder for 40g protein",
+      "Use almond butter for different nutty flavor",
+      "Include 1 tsp maca powder for energy boost"
+    ],
+    "likes": 498,
+    "createdAt": "2024-06-30T09:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "peachy-protein-dream",
+    "name": "Peachy Protein Dream",
+    "heroIcon": "heart",
+    "heroColor": "#F97316",
+    "tagline": "Summer peach smoothie with creamy cottage cheese protein boost.",
+    "goal": "protein",
+    "flavor": "creamy",
+    "diet": [
+      "high-protein",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 295,
+    "ingredients": [
+      {
+        "emoji": "🍑",
+        "name": "Frozen peaches",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🧀",
+        "name": "Cottage cheese",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange zest",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Oat milk",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Vanilla extract",
+        "amount": "1/4 tsp"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Cashews",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#F97316",
+        "label": "ADD",
+        "text": "Combine all ingredients in blender"
+      },
+      {
+        "icon": "zap",
+        "color": "#EA580C",
+        "label": "BLEND",
+        "text": "Blend on high until completely smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#FED7AA",
+        "label": "POUR",
+        "text": "Pour into chilled glass"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FB923C",
+        "label": "GARNISH",
+        "text": "Sprinkle with cinnamon or peach slice"
+      }
+    ],
+    "nutrition": {
+      "calories": 295,
+      "protein": 20,
+      "fiber": 4,
+      "sugar": 23
+    },
+    "tip": "Cottage cheese blends completely smooth—you won't taste the texture",
+    "variations": [
+      "Use mango instead of peaches",
+      "Try Greek yogurt if cottage cheese isn't available",
+      "Add 1 tbsp collagen powder for skin benefits"
+    ],
+    "likes": 234,
+    "createdAt": "2024-08-05T11:40:00Z",
+    "featured": false
+  },
+  {
+    "id": "emerald-cleanse-elixir",
+    "name": "Emerald Cleanse Elixir",
+    "heroIcon": "leaf",
+    "heroColor": "#047857",
+    "tagline": "Alkalizing green detox with parsley, cucumber, and lemon.",
+    "goal": "detox",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo",
+      "whole30"
+    ],
+    "prepTime": "6 min",
+    "servings": 1,
+    "calories": 165,
+    "ingredients": [
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh parsley",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥬",
+        "name": "Celery stalks",
+        "amount": "2 stalks"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon",
+        "amount": "1/2 juiced"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch"
+      },
+      {
+        "emoji": "💧",
+        "name": "Filtered water",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sparkles",
+        "color": "#6B7280",
+        "label": "PREP",
+        "text": "Chop all vegetables and peel ginger"
+      },
+      {
+        "icon": "waves",
+        "color": "#10B981",
+        "label": "BLEND",
+        "text": "Blend on high for 60 seconds"
+      },
+      {
+        "icon": "droplets",
+        "color": "#047857",
+        "label": "POUR",
+        "text": "Pour through fine mesh strainer if desired"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#34D399",
+        "label": "GARNISH",
+        "text": "Add lemon wheel and parsley sprig"
+      }
+    ],
+    "nutrition": {
+      "calories": 165,
+      "protein": 4,
+      "fiber": 8,
+      "sugar": 18
+    },
+    "tip": "Drink on an empty stomach in the morning for best detox benefits",
+    "variations": [
+      "Add 1 tsp chlorella for deeper cleanse",
+      "Include 1/4 fennel bulb for digestive support",
+      "Swap parsley for cilantro"
+    ],
+    "likes": 189,
+    "createdAt": "2024-09-10T06:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "ruby-reset-tonic",
+    "name": "Ruby Reset Tonic",
+    "heroIcon": "droplets",
+    "heroColor": "#BE123C",
+    "tagline": "Liver-loving beet and berry detox with anti-inflammatory turmeric.",
+    "goal": "detox",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 178,
+    "ingredients": [
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Raspberries",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🥕",
+        "name": "Cooked beet",
+        "amount": "1/2 small"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Turmeric powder",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "💧",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Black pepper",
+        "amount": "pinch"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#BE123C",
+        "label": "ADD",
+        "text": "Add all ingredients to blender"
+      },
+      {
+        "icon": "zap",
+        "color": "#E11D48",
+        "label": "BLEND",
+        "text": "Blend until smooth and vibrant"
+      },
+      {
+        "icon": "droplets",
+        "color": "#FB7185",
+        "label": "POUR",
+        "text": "Pour into glass over ice"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#F43F5E",
+        "label": "TOP",
+        "text": "Finish with a squeeze of lime"
+      }
+    ],
+    "nutrition": {
+      "calories": 178,
+      "protein": 3,
+      "fiber": 7,
+      "sugar": 24
+    },
+    "tip": "Black pepper enhances turmeric absorption by 2000%",
+    "variations": [
+      "Add 1 tsp spirulina for extra detox power",
+      "Use cranberries for UTI support",
+      "Include 1 tbsp flax seeds for fiber"
+    ],
+    "likes": 267,
+    "createdAt": "2024-07-28T08:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "citrus-shield-boost",
+    "name": "Citrus Shield Boost",
+    "heroIcon": "shield",
+    "heroColor": "#F59E0B",
+    "tagline": "Vitamin C powerhouse with ginger and turmeric for immune defense.",
+    "goal": "immunity",
+    "flavor": "citrus",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 215,
+    "ingredients": [
+      {
+        "emoji": "🍊",
+        "name": "Orange",
+        "amount": "1 large peeled"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🥭",
+        "name": "Mango chunks",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1 inch"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Turmeric",
+        "amount": "1/4 tsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Raw honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sparkles",
+        "color": "#6B7280",
+        "label": "PREP",
+        "text": "Peel orange and ginger"
+      },
+      {
+        "icon": "waves",
+        "color": "#F59E0B",
+        "label": "BLEND",
+        "text": "Blend all ingredients until smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#FCD34D",
+        "label": "POUR",
+        "text": "Pour into tall glass"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FBBF24",
+        "label": "GARNISH",
+        "text": "Add orange wheel and ginger slice"
+      }
+    ],
+    "nutrition": {
+      "calories": 215,
+      "protein": 2,
+      "fiber": 5,
+      "sugar": 42
+    },
+    "tip": "Consume within 15 minutes to preserve vitamin C content",
+    "variations": [
+      "Add 1/4 tsp cayenne for circulation boost",
+      "Include 1 tbsp elderberry syrup during cold season",
+      "Use grapefruit instead of orange"
+    ],
+    "likes": 345,
+    "createdAt": "2024-10-15T07:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "forest-defender-blend",
+    "name": "Forest Defender Blend",
+    "heroIcon": "shield",
+    "heroColor": "#065F46",
+    "tagline": "Antioxidant-rich greens and berries to fortify your immune system.",
+    "goal": "immunity",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 195,
+    "ingredients": [
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🥬",
+        "name": "Kale",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍇",
+        "name": "Red grapes",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh basil",
+        "amount": "5 leaves"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Bee pollen",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#059669",
+        "label": "PREP",
+        "text": "Remove kale stems and rinse berries"
+      },
+      {
+        "icon": "waves",
+        "color": "#065F46",
+        "label": "BLEND",
+        "text": "Blend greens first, then add fruit"
+      },
+      {
+        "icon": "droplets",
+        "color": "#10B981",
+        "label": "POUR",
+        "text": "Pour into serving glass"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FCD34D",
+        "label": "TOP",
+        "text": "Sprinkle bee pollen on top"
+      }
+    ],
+    "nutrition": {
+      "calories": 195,
+      "protein": 4,
+      "fiber": 6,
+      "sugar": 28
+    },
+    "tip": "Bee pollen contains all essential amino acids and boosts immunity",
+    "variations": [
+      "Add 1/2 tsp spirulina for immune-modulating properties",
+      "Use acai powder for extra antioxidants",
+      "Include 1 tbsp goji berries"
+    ],
+    "likes": 223,
+    "createdAt": "2024-11-02T09:20:00Z",
+    "featured": false
+  },
+  {
+    "id": "slim-green-revive",
+    "name": "Slim Green Revive",
+    "heroIcon": "leaf",
+    "heroColor": "#10B981",
+    "tagline": "Low-calorie metabolism booster packed with fiber and nutrients.",
+    "goal": "weight-loss",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 152,
+    "ingredients": [
+      {
+        "emoji": "🥬",
+        "name": "Spinach",
+        "amount": "2 cups"
+      },
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 small"
+      },
+      {
+        "emoji": "🥝",
+        "name": "Kiwi",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Mint leaves",
+        "amount": "8 leaves"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "💧",
+        "name": "Water",
+        "amount": "3/4 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#10B981",
+        "label": "PREP",
+        "text": "Wash greens and chop cucumber"
+      },
+      {
+        "icon": "waves",
+        "color": "#059669",
+        "label": "BLEND",
+        "text": "Blend until completely smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#34D399",
+        "label": "POUR",
+        "text": "Pour over ice if desired"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#6EE7B7",
+        "label": "GARNISH",
+        "text": "Top with mint sprig"
+      }
+    ],
+    "nutrition": {
+      "calories": 152,
+      "protein": 3,
+      "fiber": 7,
+      "sugar": 19
+    },
+    "tip": "Drink before meals to reduce appetite and increase satiety",
+    "variations": [
+      "Add 1 tsp matcha for metabolism boost",
+      "Include 1 tbsp chia seeds for extra fiber",
+      "Use pineapple instead of apple"
+    ],
+    "likes": 378,
+    "createdAt": "2024-05-20T08:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "berry-lean-fusion",
+    "name": "Berry Lean Fusion",
+    "heroIcon": "flame",
+    "heroColor": "#DC2626",
+    "tagline": "Low-sugar berry blend with metabolism-boosting cinnamon and L-carnitine.",
+    "goal": "weight-loss",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar",
+      "keto"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 168,
+    "ingredients": [
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Raspberries",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Cinnamon",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🫘",
+        "name": "Flax seeds",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#DC2626",
+        "label": "ADD",
+        "text": "Combine all ingredients in blender"
+      },
+      {
+        "icon": "zap",
+        "color": "#EF4444",
+        "label": "BLEND",
+        "text": "Blend until creamy and smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#F87171",
+        "label": "POUR",
+        "text": "Pour into chilled glass"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FCA5A5",
+        "label": "TOP",
+        "text": "Dust with extra cinnamon"
+      }
+    ],
+    "nutrition": {
+      "calories": 168,
+      "protein": 4,
+      "fiber": 9,
+      "sugar": 11
+    },
+    "tip": "Cinnamon helps regulate blood sugar and reduces cravings",
+    "variations": [
+      "Add 1 scoop vanilla protein powder",
+      "Use almond milk for fewer calories",
+      "Include 1/4 avocado for creaminess"
+    ],
+    "likes": 456,
+    "createdAt": "2024-06-18T10:45:00Z",
+    "featured": true
+  },
+  {
+    "id": "pineapple-metabolic-surge",
+    "name": "Pineapple Metabolic Surge",
+    "heroIcon": "zap",
+    "heroColor": "#F59E0B",
+    "tagline": "Bromelain-rich tropical smoothie that aids digestion and fat burning.",
+    "goal": "weight-loss",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 175,
+    "ingredients": [
+      {
+        "emoji": "🍍",
+        "name": "Pineapple chunks",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Cayenne pepper",
+        "amount": "pinch"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh basil",
+        "amount": "4 leaves"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sparkles",
+        "color": "#6B7280",
+        "label": "PREP",
+        "text": "Peel and chop ginger"
+      },
+      {
+        "icon": "waves",
+        "color": "#F59E0B",
+        "label": "BLEND",
+        "text": "Blend all ingredients until smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#FBBF24",
+        "label": "POUR",
+        "text": "Pour into glass with ice"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FCD34D",
+        "label": "GARNISH",
+        "text": "Add basil leaf and lime wheel"
+      }
+    ],
+    "nutrition": {
+      "calories": 175,
+      "protein": 2,
+      "fiber": 4,
+      "sugar": 28
+    },
+    "tip": "Bromelain in pineapple breaks down protein and reduces bloating",
+    "variations": [
+      "Add 1 tsp green tea powder for thermogenic effect",
+      "Include 1/4 tsp black pepper for metabolism",
+      "Use papaya for papain enzyme"
+    ],
+    "likes": 312,
+    "createdAt": "2024-08-25T07:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "cherry-muscle-repair",
+    "name": "Cherry Muscle Repair",
+    "heroIcon": "trophy",
+    "heroColor": "#991B1B",
+    "tagline": "Tart cherry anti-inflammatory blend for post-workout recovery.",
+    "goal": "recovery",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "high-protein"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 285,
+    "ingredients": [
+      {
+        "emoji": "🍒",
+        "name": "Frozen tart cherries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🫘",
+        "name": "Hemp seeds",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Cinnamon",
+        "amount": "1/4 tsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#991B1B",
+        "label": "ADD",
+        "text": "Add liquid and cherries first"
+      },
+      {
+        "icon": "zap",
+        "color": "#DC2626",
+        "label": "BLEND",
+        "text": "Blend until thick and creamy"
+      },
+      {
+        "icon": "droplets",
+        "color": "#EF4444",
+        "label": "POUR",
+        "text": "Pour into recovery glass"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#F87171",
+        "label": "TOP",
+        "text": "Sprinkle hemp seeds on top"
+      }
+    ],
+    "nutrition": {
+      "calories": 285,
+      "protein": 10,
+      "fiber": 7,
+      "sugar": 35
+    },
+    "tip": "Tart cherries reduce muscle soreness by up to 24% after exercise",
+    "variations": [
+      "Add 1 scoop vanilla protein powder",
+      "Use pomegranate juice for extra antioxidants",
+      "Include 1 tbsp collagen peptides"
+    ],
+    "likes": 389,
+    "createdAt": "2024-07-05T16:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "golden-turmeric-recovery",
+    "name": "Golden Turmeric Recovery",
+    "heroIcon": "sun",
+    "heroColor": "#D97706",
+    "tagline": "Anti-inflammatory golden milk smoothie for joint and muscle healing.",
+    "goal": "recovery",
+    "flavor": "creamy",
+    "diet": [
+      "high-protein",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 315,
+    "ingredients": [
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Full-fat milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Turmeric powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Black pepper",
+        "amount": "pinch"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut oil",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#D97706",
+        "label": "BLEND",
+        "text": "Blend all ingredients until smooth"
+      },
+      {
+        "icon": "flame",
+        "color": "#F59E0B",
+        "label": "MIX",
+        "text": "Ensure turmeric is fully incorporated"
+      },
+      {
+        "icon": "droplets",
+        "color": "#FBBF24",
+        "label": "POUR",
+        "text": "Pour into mug or glass"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FCD34D",
+        "label": "TOP",
+        "text": "Dust with cinnamon or cardamom"
+      }
+    ],
+    "nutrition": {
+      "calories": 315,
+      "protein": 10,
+      "fiber": 4,
+      "sugar": 32
+    },
+    "tip": "Black pepper increases curcumin absorption by 2000%",
+    "variations": [
+      "Add 1 scoop collagen for joint support",
+      "Use cashew milk for dairy-free version",
+      "Include 1 date for natural sweetness"
+    ],
+    "likes": 267,
+    "createdAt": "2024-09-14T18:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "coconut-electrolyte-refresh",
+    "name": "Coconut Electrolyte Refresh",
+    "heroIcon": "waves",
+    "heroColor": "#0891B2",
+    "tagline": "Hydrating tropical blend to replenish minerals and restore balance.",
+    "goal": "recovery",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 225,
+    "ingredients": [
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥭",
+        "name": "Mango chunks",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange juice",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🧂",
+        "name": "Sea salt",
+        "amount": "pinch"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#0891B2",
+        "label": "ADD",
+        "text": "Combine all ingredients in blender"
+      },
+      {
+        "icon": "zap",
+        "color": "#06B6D4",
+        "label": "BLEND",
+        "text": "Blend until smooth and frothy"
+      },
+      {
+        "icon": "droplets",
+        "color": "#22D3EE",
+        "label": "POUR",
+        "text": "Pour over ice cubes"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#67E8F9",
+        "label": "GARNISH",
+        "text": "Add lime wheel and mint"
+      }
+    ],
+    "nutrition": {
+      "calories": 225,
+      "protein": 2,
+      "fiber": 5,
+      "sugar": 41
+    },
+    "tip": "Drink within 30 minutes post-workout for optimal recovery",
+    "variations": [
+      "Add 1 scoop BCAAs for amino acid support",
+      "Include 1/2 cup pineapple for bromelain",
+      "Use watermelon for extra hydration"
+    ],
+    "likes": 298,
+    "createdAt": "2024-10-08T15:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "rose-collagen-glow",
+    "name": "Rose Collagen Glow",
+    "heroIcon": "flower",
+    "heroColor": "#DB2777",
+    "tagline": "Skin-loving smoothie with collagen, berries, and hydrating rosewater.",
+    "goal": "beauty",
+    "flavor": "berry",
+    "diet": [
+      "high-protein",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 245,
+    "ingredients": [
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Coconut milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🌹",
+        "name": "Rosewater",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧬",
+        "name": "Collagen peptides",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Acai powder",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#DB2777",
+        "label": "ADD",
+        "text": "Add berries and liquid to blender"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#EC4899",
+        "label": "MIX",
+        "text": "Add collagen and rosewater"
+      },
+      {
+        "icon": "zap",
+        "color": "#F472B6",
+        "label": "BLEND",
+        "text": "Blend until silky smooth"
+      },
+      {
+        "icon": "flower",
+        "color": "#F9A8D4",
+        "label": "GARNISH",
+        "text": "Top with edible rose petals"
+      }
+    ],
+    "nutrition": {
+      "calories": 245,
+      "protein": 15,
+      "fiber": 5,
+      "sugar": 18
+    },
+    "tip": "Collagen production peaks when consumed with vitamin C from berries",
+    "variations": [
+      "Add 1 tbsp chia seeds for omega-3s",
+      "Include 1/4 avocado for healthy fats",
+      "Use pomegranate juice for extra antioxidants"
+    ],
+    "likes": 421,
+    "createdAt": "2024-05-12T11:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "avocado-beauty-cream",
+    "name": "Avocado Beauty Cream",
+    "heroIcon": "sparkles",
+    "heroColor": "#059669",
+    "tagline": "Creamy green goddess loaded with healthy fats for glowing skin.",
+    "goal": "beauty",
+    "flavor": "creamy",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "keto",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 340,
+    "ingredients": [
+      {
+        "emoji": "🥑",
+        "name": "Avocado",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥬",
+        "name": "Spinach",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Mint leaves",
+        "amount": "6 leaves"
+      },
+      {
+        "emoji": "🫘",
+        "name": "Hemp seeds",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#059669",
+        "label": "PREP",
+        "text": "Scoop avocado and chop cucumber"
+      },
+      {
+        "icon": "waves",
+        "color": "#10B981",
+        "label": "BLEND",
+        "text": "Blend until ultra-creamy"
+      },
+      {
+        "icon": "droplets",
+        "color": "#34D399",
+        "label": "POUR",
+        "text": "Pour into chilled glass"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#6EE7B7",
+        "label": "TOP",
+        "text": "Garnish with hemp seeds and mint"
+      }
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 6,
+      "fiber": 9,
+      "sugar": 5
+    },
+    "tip": "Avocado's vitamin E protects skin from oxidative damage",
+    "variations": [
+      "Add 1/2 cup pineapple for vitamin C",
+      "Include 1 tbsp almond butter for extra vitamin E",
+      "Use kale instead of spinach"
+    ],
+    "likes": 356,
+    "createdAt": "2024-06-22T09:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "papaya-glow-elixir",
+    "name": "Papaya Glow Elixir",
+    "heroIcon": "sun",
+    "heroColor": "#F97316",
+    "tagline": "Enzyme-rich tropical beauty smoothie for radiant, clear skin.",
+    "goal": "beauty",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 215,
+    "ingredients": [
+      {
+        "emoji": "🍈",
+        "name": "Papaya chunks",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥭",
+        "name": "Mango chunks",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange juice",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥕",
+        "name": "Carrot juice",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/4 inch"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Turmeric",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sparkles",
+        "color": "#6B7280",
+        "label": "PREP",
+        "text": "Peel and chop ginger"
+      },
+      {
+        "icon": "waves",
+        "color": "#F97316",
+        "label": "ADD",
+        "text": "Combine all ingredients"
+      },
+      {
+        "icon": "zap",
+        "color": "#EA580C",
+        "label": "BLEND",
+        "text": "Blend until silky smooth"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FB923C",
+        "label": "POUR",
+        "text": "Pour and enjoy immediately"
+      }
+    ],
+    "nutrition": {
+      "calories": 215,
+      "protein": 2,
+      "fiber": 5,
+      "sugar": 42
+    },
+    "tip": "Papain enzyme in papaya helps exfoliate skin from the inside out",
+    "variations": [
+      "Add 1 tbsp coconut oil for moisture",
+      "Include 1/2 tsp biotin powder",
+      "Use pineapple for bromelain enzyme"
+    ],
+    "likes": 289,
+    "createdAt": "2024-11-20T10:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "lavender-dream-soother",
+    "name": "Lavender Dream Soother",
+    "heroIcon": "moon",
+    "heroColor": "#7C3AED",
+    "tagline": "Calming bedtime blend with lavender, banana, and sleep-promoting magnesium.",
+    "goal": "calm",
+    "flavor": "creamy",
+    "diet": [
+      "dairy-free",
+      "nut-free"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 265,
+    "ingredients": [
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Oat milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌸",
+        "name": "Culinary lavender",
+        "amount": "1/4 tsp"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Vanilla extract",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#7C3AED",
+        "label": "ADD",
+        "text": "Combine all ingredients in blender"
+      },
+      {
+        "icon": "zap",
+        "color": "#8B5CF6",
+        "label": "BLEND",
+        "text": "Blend until smooth and creamy"
+      },
+      {
+        "icon": "droplets",
+        "color": "#A78BFA",
+        "label": "POUR",
+        "text": "Pour into bedtime glass"
+      },
+      {
+        "icon": "moon",
+        "color": "#C4B5FD",
+        "label": "TOP",
+        "text": "Dust with dried lavender buds"
+      }
+    ],
+    "nutrition": {
+      "calories": 265,
+      "protein": 4,
+      "fiber": 5,
+      "sugar": 31
+    },
+    "tip": "Drink 30-60 minutes before bed for best sleep-promoting effects",
+    "variations": [
+      "Add 1 tbsp almond butter for sustained energy",
+      "Include 1/4 tsp ashwagandha powder",
+      "Use chamomile tea instead of oat milk"
+    ],
+    "likes": 312,
+    "createdAt": "2024-12-03T20:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "zen-matcha-meditation",
+    "name": "Zen Matcha Meditation",
+    "heroIcon": "leaf",
+    "heroColor": "#059669",
+    "tagline": "L-theanine rich matcha blend for focused calm and mental clarity.",
+    "goal": "calm",
+    "flavor": "creamy",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 185,
+    "ingredients": [
+      {
+        "emoji": "🍵",
+        "name": "Matcha powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥬",
+        "name": "Baby spinach",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Maple syrup",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Vanilla extract",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#059669",
+        "label": "ADD",
+        "text": "Add liquid and matcha first"
+      },
+      {
+        "icon": "zap",
+        "color": "#10B981",
+        "label": "BLEND",
+        "text": "Blend on high until frothy"
+      },
+      {
+        "icon": "droplets",
+        "color": "#34D399",
+        "label": "POUR",
+        "text": "Pour into meditation cup"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#6EE7B7",
+        "label": "TOP",
+        "text": "Dust with extra matcha powder"
+      }
+    ],
+    "nutrition": {
+      "calories": 185,
+      "protein": 3,
+      "fiber": 3,
+      "sugar": 14
+    },
+    "tip": "L-theanine in matcha promotes alpha brain waves for relaxed focus",
+    "variations": [
+      "Add 1/4 tsp reishi mushroom powder",
+      "Include 1 tbsp coconut butter for creaminess",
+      "Use almond milk for lighter version"
+    ],
+    "likes": 445,
+    "createdAt": "2025-01-10T08:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "golden-sunrise-elixir",
+    "name": "Golden Sunrise Elixir",
+    "heroIcon": "sun",
+    "heroColor": "#FFA500",
+    "tagline": "Turmeric and mango power to kickstart your day with vibrant energy",
+    "goal": "energy",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 mins",
+    "servings": 1,
+    "calories": 245,
+    "ingredients": [
+      {
+        "emoji": "🥭",
+        "name": "Mango chunks",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "✨",
+        "name": "Turmeric powder",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Raw honey",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice cubes",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sun",
+        "color": "#FFA500",
+        "label": "PREP",
+        "text": "Peel and slice banana, measure turmeric and honey"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFD700",
+        "label": "BLEND",
+        "text": "Combine all ingredients and blend for 45 seconds until smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#87CEEB",
+        "label": "POUR",
+        "text": "Pour into glass and serve immediately for best flavor"
+      }
+    ],
+    "nutrition": {
+      "calories": 245,
+      "protein": 3,
+      "fiber": 5,
+      "sugar": 38
+    },
+    "tip": "Add a pinch of black pepper to enhance turmeric absorption",
+    "variations": [
+      "Add 1 tsp fresh ginger for extra zing",
+      "Replace coconut water with orange juice",
+      "Blend in 1 tbsp chia seeds for omega-3s"
+    ],
+    "likes": 342,
+    "createdAt": "2024-08-15T09:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "espresso-cacao-rush",
+    "name": "Espresso Cacao Rush",
+    "heroIcon": "coffee",
+    "heroColor": "#6F4E37",
+    "tagline": "Cold brew meets raw cacao for a natural caffeine and antioxidant boost",
+    "goal": "energy",
+    "flavor": "chocolate",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "4 mins",
+    "servings": 1,
+    "calories": 210,
+    "ingredients": [
+      {
+        "emoji": "☕",
+        "name": "Cold brew coffee",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🍫",
+        "name": "Raw cacao powder",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍁",
+        "name": "Maple syrup",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice cubes",
+        "amount": "4-5"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "coffee",
+        "color": "#6F4E37",
+        "label": "PREP",
+        "text": "Brew cold coffee ahead or use leftover coffee chilled"
+      },
+      {
+        "icon": "zap",
+        "color": "#8B4513",
+        "label": "BLEND",
+        "text": "Blend all ingredients on high for 30-40 seconds"
+      },
+      {
+        "icon": "droplets",
+        "color": "#4A2C2A",
+        "label": "POUR",
+        "text": "Pour into a tall glass and enjoy immediately"
+      }
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": 5,
+      "fiber": 7,
+      "sugar": 22
+    },
+    "tip": "Freeze coffee as ice cubes to avoid dilution while blending",
+    "variations": [
+      "Add 1/2 tsp cinnamon for warmth",
+      "Use cashew butter instead of almond",
+      "Top with cacao nibs for crunch"
+    ],
+    "likes": 278,
+    "createdAt": "2024-09-22T07:15:00Z",
+    "featured": true
+  },
+  {
+    "id": "pineapple-power-surge",
+    "name": "Pineapple Power Surge",
+    "heroIcon": "zap",
+    "heroColor": "#FFD700",
+    "tagline": "Tropical pineapple and matcha team up for sustained clean energy all day",
+    "goal": "energy",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free"
+    ],
+    "prepTime": "5 mins",
+    "servings": 1,
+    "calories": 195,
+    "ingredients": [
+      {
+        "emoji": "🍍",
+        "name": "Pineapple chunks",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍵",
+        "name": "Matcha powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh mint",
+        "amount": "5 leaves"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#228B22",
+        "label": "PREP",
+        "text": "Whisk matcha with 2 tbsp warm water until smooth"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFD700",
+        "label": "BLEND",
+        "text": "Add remaining ingredients and blend until creamy"
+      },
+      {
+        "icon": "waves",
+        "color": "#20B2AA",
+        "label": "POUR",
+        "text": "Pour and garnish with pineapple wedge and mint"
+      }
+    ],
+    "nutrition": {
+      "calories": 195,
+      "protein": 2,
+      "fiber": 3,
+      "sugar": 18
+    },
+    "tip": "Use frozen pineapple for a thicker, frothier texture",
+    "variations": [
+      "Add 1/2 cup mango for extra sweetness",
+      "Replace mint with basil for herbal twist",
+      "Stir in 1 tbsp hemp seeds for protein"
+    ],
+    "likes": 289,
+    "createdAt": "2024-10-11T10:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "warrior-whey-builder",
+    "name": "Warrior Whey Builder",
+    "heroIcon": "dumbbell",
+    "heroColor": "#DC143C",
+    "tagline": "Pack on muscle with 35g protein from whey, oats, and peanut butter power",
+    "goal": "protein",
+    "flavor": "nutty",
+    "diet": [
+      "high-protein"
+    ],
+    "prepTime": "4 mins",
+    "servings": 1,
+    "calories": 485,
+    "ingredients": [
+      {
+        "emoji": "🥛",
+        "name": "Whole milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "💪",
+        "name": "Whey protein powder",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Peanut butter",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🌾",
+        "name": "Rolled oats",
+        "amount": "1/3 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "dumbbell",
+        "color": "#DC143C",
+        "label": "PREP",
+        "text": "Measure protein powder and oats into blender"
+      },
+      {
+        "icon": "milk",
+        "color": "#F5F5DC",
+        "label": "ADD",
+        "text": "Add milk, banana, peanut butter, and honey"
+      },
+      {
+        "icon": "zap",
+        "color": "#FF6347",
+        "label": "BLEND",
+        "text": "Blend on high for 60 seconds until smooth and creamy"
+      },
+      {
+        "icon": "trophy",
+        "color": "#FFD700",
+        "label": "POUR",
+        "text": "Pour into shaker bottle or glass and enjoy post-workout"
+      }
+    ],
+    "nutrition": {
+      "calories": 485,
+      "protein": 35,
+      "fiber": 7,
+      "sugar": 32
+    },
+    "tip": "Soak oats in milk for 5 minutes before blending for smoother texture",
+    "variations": [
+      "Swap peanut butter for almond butter",
+      "Use chocolate whey for dessert flavor",
+      "Add 1 tbsp flaxseed for omega-3s"
+    ],
+    "likes": 412,
+    "createdAt": "2024-07-29T06:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "greek-goddess-protein",
+    "name": "Greek Goddess Protein",
+    "heroIcon": "star",
+    "heroColor": "#9370DB",
+    "tagline": "Creamy Greek yogurt and berries deliver 28g protein plus antioxidants",
+    "goal": "protein",
+    "flavor": "berry",
+    "diet": [
+      "high-protein",
+      "low-sugar"
+    ],
+    "prepTime": "3 mins",
+    "servings": 1,
+    "calories": 320,
+    "ingredients": [
+      {
+        "emoji": "🥛",
+        "name": "Greek yogurt",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Mixed berries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond milk",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Almonds",
+        "amount": "10 whole"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Agave nectar",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "✨",
+        "name": "Vanilla extract",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "star",
+        "color": "#9370DB",
+        "label": "PREP",
+        "text": "Measure Greek yogurt and frozen berries"
+      },
+      {
+        "icon": "zap",
+        "color": "#BA55D3",
+        "label": "BLEND",
+        "text": "Blend all ingredients until velvety smooth"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#DDA0DD",
+        "label": "TOP",
+        "text": "Pour and top with fresh berries and sliced almonds"
+      }
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 28,
+      "fiber": 8,
+      "sugar": 24
+    },
+    "tip": "Use frozen berries for a thicker, ice cream-like consistency",
+    "variations": [
+      "Add 1 tbsp chia seeds for extra fiber",
+      "Replace berries with cherries",
+      "Mix in 1 scoop vanilla protein powder for 40g protein"
+    ],
+    "likes": 365,
+    "createdAt": "2024-11-03T08:20:00Z",
+    "featured": false
+  },
+  {
+    "id": "jade-cleanse-remedy",
+    "name": "Jade Cleanse Remedy",
+    "heroIcon": "leaf",
+    "heroColor": "#2E8B57",
+    "tagline": "Cucumber, celery, and spirulina flush toxins while hydrating deeply",
+    "goal": "detox",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "6 mins",
+    "servings": 1,
+    "calories": 125,
+    "ingredients": [
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Celery stalks",
+        "amount": "2 large"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥬",
+        "name": "Spinach",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌀",
+        "name": "Spirulina powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "💧",
+        "name": "Coconut water",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#2E8B57",
+        "label": "PREP",
+        "text": "Chop cucumber and celery, wash spinach thoroughly"
+      },
+      {
+        "icon": "droplets",
+        "color": "#3CB371",
+        "label": "ADD",
+        "text": "Add all greens, spirulina, lemon, and coconut water"
+      },
+      {
+        "icon": "zap",
+        "color": "#90EE90",
+        "label": "BLEND",
+        "text": "Blend on high for 45 seconds until fully liquified"
+      },
+      {
+        "icon": "waves",
+        "color": "#20B2AA",
+        "label": "POUR",
+        "text": "Strain if desired and serve over ice"
+      }
+    ],
+    "nutrition": {
+      "calories": 125,
+      "protein": 4,
+      "fiber": 6,
+      "sugar": 15
+    },
+    "tip": "Drink on an empty stomach in the morning for maximum detox benefits",
+    "variations": [
+      "Add 1/2 cup parsley for extra cleansing",
+      "Include 1 tsp fresh ginger for digestion",
+      "Replace apple with pear for lower sugar"
+    ],
+    "likes": 198,
+    "createdAt": "2024-06-18T07:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "crimson-beet-purifier",
+    "name": "Crimson Beet Purifier",
+    "heroIcon": "heart",
+    "heroColor": "#C41E3A",
+    "tagline": "Earthy beets and tart cranberries support liver detox and circulation",
+    "goal": "detox",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 mins",
+    "servings": 1,
+    "calories": 165,
+    "ingredients": [
+      {
+        "emoji": "🫐",
+        "name": "Cooked beet",
+        "amount": "1 small"
+      },
+      {
+        "emoji": "🍒",
+        "name": "Cranberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange juice",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🥕",
+        "name": "Carrot",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "heart",
+        "color": "#C41E3A",
+        "label": "PREP",
+        "text": "Peel and chop cooked beet and raw carrot"
+      },
+      {
+        "icon": "zap",
+        "color": "#DC143C",
+        "label": "BLEND",
+        "text": "Blend all ingredients until completely smooth"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FF1493",
+        "label": "POUR",
+        "text": "Pour into glass and enjoy vibrant detox goodness"
+      }
+    ],
+    "nutrition": {
+      "calories": 165,
+      "protein": 3,
+      "fiber": 5,
+      "sugar": 28
+    },
+    "tip": "Roast beets ahead and store in fridge for quick smoothie prep",
+    "variations": [
+      "Add 1 tbsp fresh ginger for warmth",
+      "Replace cranberries with raspberries",
+      "Include 1/4 tsp cayenne for metabolism boost"
+    ],
+    "likes": 224,
+    "createdAt": "2024-08-07T09:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "lemon-detox-revival",
+    "name": "Lemon Detox Revival",
+    "heroIcon": "citrus",
+    "heroColor": "#FFF44F",
+    "tagline": "Alkalizing lemon and dandelion greens kickstart your body's natural cleanse",
+    "goal": "detox",
+    "flavor": "citrus",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "4 mins",
+    "servings": 1,
+    "calories": 95,
+    "ingredients": [
+      {
+        "emoji": "🍋",
+        "name": "Lemon",
+        "amount": "1 whole peeled"
+      },
+      {
+        "emoji": "🥬",
+        "name": "Dandelion greens",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1-inch piece"
+      },
+      {
+        "emoji": "💧",
+        "name": "Water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "citrus",
+        "color": "#FFF44F",
+        "label": "PREP",
+        "text": "Peel lemon, chop apple and ginger"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFFF66",
+        "label": "BLEND",
+        "text": "Blend all ingredients on high until smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#F0E68C",
+        "label": "POUR",
+        "text": "Serve immediately for maximum vitamin C retention"
+      }
+    ],
+    "nutrition": {
+      "calories": 95,
+      "protein": 2,
+      "fiber": 6,
+      "sugar": 16
+    },
+    "tip": "Drink first thing in the morning to activate digestion and detox pathways",
+    "variations": [
+      "Add 1/4 cup cilantro for heavy metal detox",
+      "Include 1 tbsp apple cider vinegar",
+      "Replace dandelion with kale or arugula"
+    ],
+    "likes": 267,
+    "createdAt": "2024-09-14T06:30:00Z",
+    "featured": true
+  },
+  {
+    "id": "citrus-shield-defender",
+    "name": "Citrus Shield Defender",
+    "heroIcon": "shield",
+    "heroColor": "#FF8C00",
+    "tagline": "Triple citrus blast with ginger packs 200% daily vitamin C for immune armor",
+    "goal": "immunity",
+    "flavor": "citrus",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 mins",
+    "servings": 1,
+    "calories": 180,
+    "ingredients": [
+      {
+        "emoji": "🍊",
+        "name": "Orange",
+        "amount": "2 medium"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Grapefruit",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1-inch piece"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "citrus",
+        "color": "#FF8C00",
+        "label": "PREP",
+        "text": "Peel and segment citrus fruits, peel ginger"
+      },
+      {
+        "icon": "shield",
+        "color": "#FFA500",
+        "label": "BLEND",
+        "text": "Blend all ingredients until smooth and frothy"
+      },
+      {
+        "icon": "sun",
+        "color": "#FFD700",
+        "label": "POUR",
+        "text": "Pour and enjoy your vitamin C immunity boost"
+      }
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 2,
+      "fiber": 5,
+      "sugar": 34
+    },
+    "tip": "Add a pinch of turmeric for extra anti-inflammatory benefits",
+    "variations": [
+      "Include 1/2 cup pineapple for tropical twist",
+      "Add 1/4 tsp cayenne for circulation",
+      "Mix in 1 tsp manuka honey for antibacterial power"
+    ],
+    "likes": 318,
+    "createdAt": "2024-10-25T08:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "elderberry-immune-fortress",
+    "name": "Elderberry Immune Fortress",
+    "heroIcon": "shield",
+    "heroColor": "#4B0082",
+    "tagline": "Potent elderberry and acai berries fortify defenses with antioxidant power",
+    "goal": "immunity",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "4 mins",
+    "servings": 1,
+    "calories": 205,
+    "ingredients": [
+      {
+        "emoji": "🫐",
+        "name": "Elderberry syrup",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Acai puree",
+        "amount": "1/2 pack"
+      },
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/4 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "shield",
+        "color": "#4B0082",
+        "label": "PREP",
+        "text": "Thaw acai puree slightly if frozen solid"
+      },
+      {
+        "icon": "grape",
+        "color": "#8B008B",
+        "label": "ADD",
+        "text": "Add all berries, elderberry syrup, and coconut milk"
+      },
+      {
+        "icon": "zap",
+        "color": "#9370DB",
+        "label": "BLEND",
+        "text": "Blend until smooth and creamy, about 40 seconds"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#DA70D6",
+        "label": "TOP",
+        "text": "Pour and garnish with fresh berries"
+      }
+    ],
+    "nutrition": {
+      "calories": 205,
+      "protein": 3,
+      "fiber": 7,
+      "sugar": 26
+    },
+    "tip": "Make elderberry syrup in batches and store in fridge for daily immunity",
+    "variations": [
+      "Add 1 tsp maqui berry powder for extra antioxidants",
+      "Include 1/2 cup blueberries",
+      "Mix in 1 tbsp hemp seeds for protein"
+    ],
+    "likes": 291,
+    "createdAt": "2024-07-12T09:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "turmeric-golden-guardian",
+    "name": "Turmeric Golden Guardian",
+    "heroIcon": "flame",
+    "heroColor": "#FF8C00",
+    "tagline": "Anti-inflammatory turmeric and tropical mango create a healing elixir",
+    "goal": "immunity",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 mins",
+    "servings": 1,
+    "calories": 220,
+    "ingredients": [
+      {
+        "emoji": "🥭",
+        "name": "Mango",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange juice",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "✨",
+        "name": "Turmeric powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut oil",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Black pepper",
+        "amount": "pinch"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "flame",
+        "color": "#FF8C00",
+        "label": "PREP",
+        "text": "Measure turmeric, ginger, and add pinch of black pepper"
+      },
+      {
+        "icon": "sun",
+        "color": "#FFA500",
+        "label": "BLEND",
+        "text": "Blend all ingredients on high until golden and smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#FFB347",
+        "label": "POUR",
+        "text": "Pour into glass and drink for inflammation relief"
+      }
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 2,
+      "fiber": 4,
+      "sugar": 38
+    },
+    "tip": "Black pepper is essential - it increases turmeric absorption by 2000%",
+    "variations": [
+      "Add 1/2 cup pineapple for extra vitamin C",
+      "Include 1/2 tsp cinnamon for warmth",
+      "Use fresh turmeric root instead of powder"
+    ],
+    "likes": 375,
+    "createdAt": "2024-11-19T10:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "slim-green-metabolism",
+    "name": "Slim Green Metabolism",
+    "heroIcon": "leaf",
+    "heroColor": "#32CD32",
+    "tagline": "Metabolism-boosting matcha and spinach deliver fat-burning catechins naturally",
+    "goal": "weight-loss",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "4 mins",
+    "servings": 1,
+    "calories": 135,
+    "ingredients": [
+      {
+        "emoji": "🥬",
+        "name": "Spinach",
+        "amount": "2 cups"
+      },
+      {
+        "emoji": "🍵",
+        "name": "Matcha powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🥝",
+        "name": "Kiwi",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "💧",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#32CD32",
+        "label": "PREP",
+        "text": "Wash spinach, peel kiwi, whisk matcha with 2 tbsp water"
+      },
+      {
+        "icon": "zap",
+        "color": "#00FF00",
+        "label": "BLEND",
+        "text": "Blend all ingredients on high until silky smooth"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#98FB98",
+        "label": "POUR",
+        "text": "Serve immediately for metabolism-boosting benefits"
+      }
+    ],
+    "nutrition": {
+      "calories": 135,
+      "protein": 4,
+      "fiber": 6,
+      "sugar": 18
+    },
+    "tip": "Drink 30 minutes before breakfast to maximize fat-burning effects",
+    "variations": [
+      "Add 1 tbsp chia seeds for satiety",
+      "Include 1/2 cucumber for hydration",
+      "Mix in juice of 1/2 lime for tang"
+    ],
+    "likes": 256,
+    "createdAt": "2024-06-30T07:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "berry-slim-satisfier",
+    "name": "Berry Slim Satisfier",
+    "heroIcon": "cherry",
+    "heroColor": "#E30B5C",
+    "tagline": "High-fiber berries and flaxseed keep you full while supporting fat loss",
+    "goal": "weight-loss",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar",
+      "whole30"
+    ],
+    "prepTime": "3 mins",
+    "servings": 1,
+    "calories": 155,
+    "ingredients": [
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Unsweetened almond milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌾",
+        "name": "Ground flaxseed",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "✨",
+        "name": "Cinnamon",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "cherry",
+        "color": "#E30B5C",
+        "label": "PREP",
+        "text": "Measure berries and grind flaxseed fresh if possible"
+      },
+      {
+        "icon": "zap",
+        "color": "#FF1493",
+        "label": "BLEND",
+        "text": "Blend all ingredients until smooth and creamy"
+      },
+      {
+        "icon": "heart",
+        "color": "#FF69B4",
+        "label": "POUR",
+        "text": "Pour and sprinkle extra cinnamon on top"
+      }
+    ],
+    "nutrition": {
+      "calories": 155,
+      "protein": 5,
+      "fiber": 11,
+      "sugar": 12
+    },
+    "tip": "The fiber and healthy fats create lasting fullness to curb cravings",
+    "variations": [
+      "Add 1/2 cup raspberries for more fiber",
+      "Include 1 tbsp hemp seeds for protein",
+      "Mix in 1/4 tsp vanilla extract"
+    ],
+    "likes": 302,
+    "createdAt": "2024-08-21T08:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "tropical-lean-refresher",
+    "name": "Tropical Lean Refresher",
+    "heroIcon": "waves",
+    "heroColor": "#00CED1",
+    "tagline": "Papaya enzymes and coconut water support digestion and reduce bloating",
+    "goal": "weight-loss",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "4 mins",
+    "servings": 1,
+    "calories": 145,
+    "ingredients": [
+      {
+        "emoji": "🍈",
+        "name": "Papaya",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh mint",
+        "amount": "6 leaves"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#00CED1",
+        "label": "PREP",
+        "text": "Peel and deseed papaya, peel ginger root"
+      },
+      {
+        "icon": "zap",
+        "color": "#48D1CC",
+        "label": "BLEND",
+        "text": "Blend all ingredients until smooth and refreshing"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#AFEEEE",
+        "label": "GARNISH",
+        "text": "Pour and garnish with mint sprig and lime wheel"
+      }
+    ],
+    "nutrition": {
+      "calories": 145,
+      "protein": 2,
+      "fiber": 4,
+      "sugar": 24
+    },
+    "tip": "Papaya enzymes aid digestion and reduce water retention naturally",
+    "variations": [
+      "Add 1/2 cup pineapple for bromelain enzymes",
+      "Include 1 tbsp chia seeds for omega-3s",
+      "Replace mint with basil for herbal note"
+    ],
+    "likes": 213,
+    "createdAt": "2024-09-05T09:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "muscle-mend-cherry",
+    "name": "Muscle Mend Cherry",
+    "heroIcon": "dumbbell",
+    "heroColor": "#8B0000",
+    "tagline": "Tart cherry and protein accelerate muscle repair after intense workouts",
+    "goal": "recovery",
+    "flavor": "berry",
+    "diet": [
+      "high-protein",
+      "dairy-free"
+    ],
+    "prepTime": "3 mins",
+    "servings": 1,
+    "calories": 285,
+    "ingredients": [
+      {
+        "emoji": "🍒",
+        "name": "Tart cherry juice",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "💪",
+        "name": "Vanilla protein powder",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "✨",
+        "name": "Cinnamon",
+        "amount": "1/4 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "dumbbell",
+        "color": "#8B0000",
+        "label": "PREP",
+        "text": "Pour tart cherry juice and measure protein powder"
+      },
+      {
+        "icon": "zap",
+        "color": "#DC143C",
+        "label": "BLEND",
+        "text": "Blend all ingredients until smooth and creamy"
+      },
+      {
+        "icon": "trophy",
+        "color": "#FFD700",
+        "label": "POUR",
+        "text": "Drink within 30 minutes post-workout for best results"
+      }
+    ],
+    "nutrition": {
+      "calories": 285,
+      "protein": 22,
+      "fiber": 5,
+      "sugar": 32
+    },
+    "tip": "Tart cherries reduce inflammation and muscle soreness naturally",
+    "variations": [
+      "Add 1 tbsp ground flaxseed for omega-3s",
+      "Include 1/2 cup frozen cherries for thickness",
+      "Mix in 1 tsp turmeric for anti-inflammatory boost"
+    ],
+    "likes": 344,
+    "createdAt": "2024-07-18T11:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "tropical-recovery-wave",
+    "name": "Tropical Recovery Wave",
+    "heroIcon": "waves",
+    "heroColor": "#FF6347",
+    "tagline": "Pineapple bromelain and coconut electrolytes replenish and reduce swelling",
+    "goal": "recovery",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "4 mins",
+    "servings": 1,
+    "calories": 215,
+    "ingredients": [
+      {
+        "emoji": "🍍",
+        "name": "Pineapple",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch"
+      },
+      {
+        "emoji": "✨",
+        "name": "Turmeric",
+        "amount": "1/4 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#FF6347",
+        "label": "PREP",
+        "text": "Chop pineapple and peel ginger root"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFA07A",
+        "label": "BLEND",
+        "text": "Blend all ingredients until smooth and tropical"
+      },
+      {
+        "icon": "sun",
+        "color": "#FFD700",
+        "label": "POUR",
+        "text": "Pour and enjoy for natural anti-inflammatory recovery"
+      }
+    ],
+    "nutrition": {
+      "calories": 215,
+      "protein": 3,
+      "fiber": 4,
+      "sugar": 36
+    },
+    "tip": "Drink after workouts to reduce inflammation and restore electrolytes",
+    "variations": [
+      "Add 1/2 cup mango for extra sweetness",
+      "Include 1 tbsp hemp seeds for protein",
+      "Mix in 1/4 tsp black pepper for turmeric absorption"
+    ],
+    "likes": 278,
+    "createdAt": "2024-10-08T10:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "radiant-skin-collagen",
+    "name": "Radiant Skin Collagen",
+    "heroIcon": "sparkles",
+    "heroColor": "#FF69B4",
+    "tagline": "Collagen peptides and vitamin C berries boost skin elasticity and glow",
+    "goal": "beauty",
+    "flavor": "berry",
+    "diet": [
+      "high-protein",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "4 mins",
+    "servings": 1,
+    "calories": 195,
+    "ingredients": [
+      {
+        "emoji": "✨",
+        "name": "Collagen peptides",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sparkles",
+        "color": "#FF69B4",
+        "label": "PREP",
+        "text": "Measure collagen peptides into blender first"
+      },
+      {
+        "icon": "cherry",
+        "color": "#FF1493",
+        "label": "ADD",
+        "text": "Add berries, almond milk, and honey"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFB6C1",
+        "label": "BLEND",
+        "text": "Blend on high for 45 seconds until smooth"
+      },
+      {
+        "icon": "heart",
+        "color": "#FFC0CB",
+        "label": "POUR",
+        "text": "Pour and drink daily for glowing skin from within"
+      }
+    ],
+    "nutrition": {
+      "calories": 195,
+      "protein": 15,
+      "fiber": 6,
+      "sugar": 22
+    },
+    "tip": "Vitamin C from berries helps your body produce and absorb collagen better",
+    "variations": [
+      "Add 1/2 cup raspberries for extra antioxidants",
+      "Include 1 tbsp almond butter for healthy fats",
+      "Mix in 1/4 tsp vanilla extract"
+    ],
+    "likes": 428,
+    "createdAt": "2024-08-28T08:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "glow-tropical-beauty",
+    "name": "Glow Tropical Beauty",
+    "heroIcon": "sun",
+    "heroColor": "#FFA500",
+    "tagline": "Beta-carotene mango and vitamin E avocado nourish skin deeply from inside",
+    "goal": "beauty",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 mins",
+    "servings": 1,
+    "calories": 265,
+    "ingredients": [
+      {
+        "emoji": "🥭",
+        "name": "Mango",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥑",
+        "name": "Avocado",
+        "amount": "1/4 medium"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange juice",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Almonds",
+        "amount": "8 whole"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "sun",
+        "color": "#FFA500",
+        "label": "PREP",
+        "text": "Scoop avocado and chop mango into chunks"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFB347",
+        "label": "BLEND",
+        "text": "Blend all ingredients until ultra creamy and smooth"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FFDAB9",
+        "label": "POUR",
+        "text": "Pour into glass and enjoy beauty nutrients"
+      }
+    ],
+    "nutrition": {
+      "calories": 265,
+      "protein": 5,
+      "fiber": 6,
+      "sugar": 32
+    },
+    "tip": "Healthy fats from avocado help absorb fat-soluble vitamins A and E",
+    "variations": [
+      "Add 1/2 cup pineapple for vitamin C",
+      "Include 1 tbsp hemp seeds for omega-3s",
+      "Mix in 1/2 tsp spirulina for extra nutrients"
+    ],
+    "likes": 387,
+    "createdAt": "2024-11-12T09:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "lavender-dream-calm",
+    "name": "Lavender Dream Calm",
+    "heroIcon": "moon",
+    "heroColor": "#9370DB",
+    "tagline": "Soothing lavender and chamomile promote relaxation and peaceful sleep",
+    "goal": "calm",
+    "flavor": "creamy",
+    "diet": [
+      "vegan",
+      "dairy-free"
+    ],
+    "prepTime": "5 mins",
+    "servings": 1,
+    "calories": 175,
+    "ingredients": [
+      {
+        "emoji": "🌸",
+        "name": "Dried lavender",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🍵",
+        "name": "Chamomile tea",
+        "amount": "1/2 cup cooled"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Cashew milk",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "✨",
+        "name": "Vanilla extract",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "moon",
+        "color": "#9370DB",
+        "label": "PREP",
+        "text": "Brew chamomile tea, cool, and add lavender to steep"
+      },
+      {
+        "icon": "zap",
+        "color": "#BA55D3",
+        "label": "BLEND",
+        "text": "Strain tea, add remaining ingredients, blend smooth"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#DDA0DD",
+        "label": "POUR",
+        "text": "Pour and sip slowly 1 hour before bedtime"
+      }
+    ],
+    "nutrition": {
+      "calories": 175,
+      "protein": 3,
+      "fiber": 4,
+      "sugar": 24
+    },
+    "tip": "Use culinary-grade lavender only, and don't exceed 1/2 tsp to avoid soapy taste",
+    "variations": [
+      "Add 1 tbsp almond butter for magnesium",
+      "Include 1/2 tsp ashwagandha powder",
+      "Replace banana with 1/2 cup blueberries"
+    ],
+    "likes": 245,
+    "createdAt": "2024-07-05T20:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "zen-cacao-bliss",
+    "name": "Zen Cacao Bliss",
+    "heroIcon": "cookie",
+    "heroColor": "#8B4513",
+    "tagline": "Raw cacao and magnesium-rich dates calm nerves and reduce stress naturally",
+    "goal": "calm",
+    "flavor": "chocolate",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "4 mins",
+    "servings": 1,
+    "calories": 240,
+    "ingredients": [
+      {
+        "emoji": "🍫",
+        "name": "Raw cacao powder",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Oat milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🌴",
+        "name": "Medjool dates",
+        "amount": "2 pitted"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "✨",
+        "name": "Cinnamon",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "cookie",
+        "color": "#8B4513",
+        "label": "PREP",
+        "text": "Pit dates and measure cacao and almond butter"
+      },
+      {
+        "icon": "zap",
+        "color": "#A0522D",
+        "label": "BLEND",
+        "text": "Blend all ingredients until rich and creamy"
+      },
+      {
+        "icon": "heart",
+        "color": "#D2691E",
+        "label": "POUR",
+        "text": "Pour and enjoy warm or cold for stress relief"
+      }
+    ],
+    "nutrition": {
+      "calories": 240,
+      "protein": 6,
+      "fiber": 9,
+      "sugar": 28
+    },
+    "tip": "Cacao contains theobromine and magnesium which promote calm and happiness",
+    "variations": [
+      "Add 1/2 tsp maca powder for adaptogen benefits",
+      "Include 1 tbsp hemp seeds for omega-3s",
+      "Mix in 1/4 tsp vanilla extract for warmth"
+    ],
+    "likes": 361,
+    "createdAt": "2024-09-27T19:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "midnight-velvet",
+    "name": "Midnight Velvet",
+    "heroIcon": "moon",
+    "heroColor": "#4A148C",
+    "tagline": "Lavender-infused blueberry dream that soothes your mind and body",
+    "goal": "calm",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 195,
+    "ingredients": [
+      {
+        "emoji": "🫐",
+        "name": "Frozen blueberries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Dried lavender",
+        "amount": "1/4 tsp"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Raw honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "droplets",
+        "color": "#6A1B9A",
+        "label": "PREP",
+        "text": "Steep lavender in warm coconut milk for 2 minutes, then cool"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#8E24AA",
+        "label": "BLEND",
+        "text": "Combine all ingredients until silky smooth"
+      },
+      {
+        "icon": "moon",
+        "color": "#4A148C",
+        "label": "POUR",
+        "text": "Pour into a glass and let settle for 30 seconds"
+      },
+      {
+        "icon": "flower",
+        "color": "#9C27B0",
+        "label": "GARNISH",
+        "text": "Top with dried lavender buds and a blueberry"
+      }
+    ],
+    "nutrition": {
+      "calories": 195,
+      "protein": 3,
+      "fiber": 5,
+      "sugar": 22
+    },
+    "tip": "Use culinary-grade lavender only—too much can taste soapy!",
+    "variations": [
+      "Add 1/4 cup rolled oats for sustained calm energy",
+      "Swap blueberries for blackberries for deeper flavor",
+      "Use chamomile tea instead of lavender for gentler relaxation"
+    ],
+    "likes": 287,
+    "createdAt": "2024-08-15T09:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "iron-forge",
+    "name": "Iron Forge",
+    "heroIcon": "dumbbell",
+    "heroColor": "#D32F2F",
+    "tagline": "Post-workout muscle repair with plant-based protein and adaptogens",
+    "goal": "recovery",
+    "flavor": "chocolate",
+    "diet": [
+      "vegan",
+      "high-protein",
+      "dairy-free"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 340,
+    "ingredients": [
+      {
+        "emoji": "🍫",
+        "name": "Vegan chocolate protein",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Oat milk",
+        "amount": "1.5 cups"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Cacao nibs",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍄",
+        "name": "Reishi powder",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "coffee",
+        "color": "#5D4037",
+        "label": "ADD",
+        "text": "Add protein, almond butter, and reishi to blender"
+      },
+      {
+        "icon": "zap",
+        "color": "#D32F2F",
+        "label": "BLEND",
+        "text": "Blend with banana and oat milk until creamy"
+      },
+      {
+        "icon": "dumbbell",
+        "color": "#C62828",
+        "label": "POUR",
+        "text": "Pour into a shaker bottle or glass"
+      },
+      {
+        "icon": "star",
+        "color": "#8D6E63",
+        "label": "TOP",
+        "text": "Sprinkle cacao nibs on top for crunch"
+      }
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 28,
+      "fiber": 8,
+      "sugar": 18
+    },
+    "tip": "Drink within 30 minutes post-workout for optimal muscle recovery",
+    "variations": [
+      "Add 1/4 cup cooked quinoa for extra protein and carbs",
+      "Use peanut butter instead of almond for richer taste",
+      "Blend in 1/4 cup cold brew coffee for pre-workout energy"
+    ],
+    "likes": 412,
+    "createdAt": "2024-09-22T14:15:00Z",
+    "featured": true
+  },
+  {
+    "id": "golden-revival",
+    "name": "Golden Revival",
+    "heroIcon": "sun",
+    "heroColor": "#FF8F00",
+    "tagline": "Turmeric and ginger elixir that revives tired muscles and joints",
+    "goal": "recovery",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "6 min",
+    "servings": 1,
+    "calories": 225,
+    "ingredients": [
+      {
+        "emoji": "🥭",
+        "name": "Frozen mango",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🧡",
+        "name": "Fresh turmeric",
+        "amount": "1 inch piece"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch piece"
+      },
+      {
+        "emoji": "🍊",
+        "name": "Orange juice",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Black pepper",
+        "amount": "pinch"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "citrus",
+        "color": "#FF6F00",
+        "label": "PREP",
+        "text": "Peel turmeric and ginger, chop roughly"
+      },
+      {
+        "icon": "zap",
+        "color": "#FF8F00",
+        "label": "BLEND",
+        "text": "Blend all ingredients until completely smooth"
+      },
+      {
+        "icon": "sun",
+        "color": "#FFA000",
+        "label": "POUR",
+        "text": "Strain through fine mesh if desired for silky texture"
+      },
+      {
+        "icon": "flame",
+        "color": "#EF6C00",
+        "label": "TOP",
+        "text": "Add extra black pepper on top to boost turmeric absorption"
+      }
+    ],
+    "nutrition": {
+      "calories": 225,
+      "protein": 3,
+      "fiber": 4,
+      "sugar": 42
+    },
+    "tip": "Black pepper increases turmeric absorption by up to 2000%",
+    "variations": [
+      "Add 1/2 cup pineapple for bromelain anti-inflammatory boost",
+      "Stir in 1 tsp coconut oil for fat-soluble turmeric benefits",
+      "Use frozen turmeric cubes for convenience"
+    ],
+    "likes": 368,
+    "createdAt": "2024-07-11T11:20:00Z",
+    "featured": false
+  },
+  {
+    "id": "jade-warrior",
+    "name": "Jade Warrior",
+    "heroIcon": "shield",
+    "heroColor": "#2E7D32",
+    "tagline": "Immune-boosting green fortress packed with vitamin C and zinc",
+    "goal": "immunity",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 180,
+    "ingredients": [
+      {
+        "emoji": "🥬",
+        "name": "Baby spinach",
+        "amount": "2 cups"
+      },
+      {
+        "emoji": "🥝",
+        "name": "Kiwi",
+        "amount": "2 medium"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "💧",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#388E3C",
+        "label": "PREP",
+        "text": "Wash greens and chop apple and cucumber"
+      },
+      {
+        "icon": "shield",
+        "color": "#2E7D32",
+        "label": "BLEND",
+        "text": "Blend all ingredients starting on low, then high"
+      },
+      {
+        "icon": "droplets",
+        "color": "#43A047",
+        "label": "POUR",
+        "text": "Pour into a tall glass over ice if desired"
+      },
+      {
+        "icon": "citrus",
+        "color": "#558B2F",
+        "label": "GARNISH",
+        "text": "Add a kiwi slice and cucumber ribbon on rim"
+      }
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fiber": 8,
+      "sugar": 28
+    },
+    "tip": "Keep kiwi skin on for extra fiber and nutrients—it's totally edible!",
+    "variations": [
+      "Add 1/2 inch ginger for extra immune support",
+      "Swap apple for pear for a softer sweetness",
+      "Blend in 1 tbsp hemp hearts for omega-3s"
+    ],
+    "likes": 294,
+    "createdAt": "2024-10-05T08:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "crimson-shield",
+    "name": "Crimson Shield",
+    "heroIcon": "heart",
+    "heroColor": "#C62828",
+    "tagline": "Elderberry and acerola cherry powerhouse to ward off seasonal bugs",
+    "goal": "immunity",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 165,
+    "ingredients": [
+      {
+        "emoji": "🍒",
+        "name": "Acerola cherry puree",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Mixed berries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍇",
+        "name": "Elderberry syrup",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "cherry",
+        "color": "#D32F2F",
+        "label": "ADD",
+        "text": "Combine all berries and elderberry syrup in blender"
+      },
+      {
+        "icon": "heart",
+        "color": "#C62828",
+        "label": "BLEND",
+        "text": "Blend with coconut milk until smooth"
+      },
+      {
+        "icon": "shield",
+        "color": "#B71C1C",
+        "label": "POUR",
+        "text": "Pour into glass and let foam settle"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#E91E63",
+        "label": "TOP",
+        "text": "Drizzle honey on top in a spiral"
+      }
+    ],
+    "nutrition": {
+      "calories": 165,
+      "protein": 2,
+      "fiber": 6,
+      "sugar": 22
+    },
+    "tip": "Elderberry syrup works best when taken at first sign of illness",
+    "variations": [
+      "Add 1/4 tsp vitamin C powder for extra immune punch",
+      "Use manuka honey for antibacterial benefits",
+      "Blend in 1/4 cup Greek yogurt for probiotic boost"
+    ],
+    "likes": 331,
+    "createdAt": "2024-11-18T10:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "lightning-bolt",
+    "name": "Lightning Bolt",
+    "heroIcon": "zap",
+    "heroColor": "#FFD600",
+    "tagline": "Matcha and maca blend for sustained energy without the crash",
+    "goal": "energy",
+    "flavor": "creamy",
+    "diet": [
+      "vegan",
+      "dairy-free"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 245,
+    "ingredients": [
+      {
+        "emoji": "🍵",
+        "name": "Matcha powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Maca powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Cashew butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Maple syrup",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "coffee",
+        "color": "#9CCC65",
+        "label": "PREP",
+        "text": "Whisk matcha with 2 tbsp hot water until smooth"
+      },
+      {
+        "icon": "zap",
+        "color": "#FFD600",
+        "label": "BLEND",
+        "text": "Add all ingredients and blend until frothy"
+      },
+      {
+        "icon": "star",
+        "color": "#FFEB3B",
+        "label": "POUR",
+        "text": "Pour into glass, letting foam rise to top"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#CDDC39",
+        "label": "GARNISH",
+        "text": "Dust with extra matcha powder"
+      }
+    ],
+    "nutrition": {
+      "calories": 245,
+      "protein": 6,
+      "fiber": 5,
+      "sugar": 20
+    },
+    "tip": "Drink 30-60 minutes before workout for peak energy boost",
+    "variations": [
+      "Add 1/4 cup oats for longer-lasting energy",
+      "Use ceremonial grade matcha for smoother flavor",
+      "Blend in 1 date instead of maple syrup for natural sweetness"
+    ],
+    "likes": 445,
+    "createdAt": "2024-06-28T07:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "sunrise-spark",
+    "name": "Sunrise Spark",
+    "heroIcon": "sun",
+    "heroColor": "#FF5722",
+    "tagline": "Energizing citrus sunrise with spirulina for natural morning fuel",
+    "goal": "energy",
+    "flavor": "citrus",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 155,
+    "ingredients": [
+      {
+        "emoji": "🍊",
+        "name": "Fresh orange juice",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon",
+        "amount": "1/2 juiced"
+      },
+      {
+        "emoji": "🥭",
+        "name": "Frozen mango",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Spirulina powder",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch piece"
+      },
+      {
+        "emoji": "🧊",
+        "name": "Ice",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "citrus",
+        "color": "#FF6F00",
+        "label": "PREP",
+        "text": "Juice orange and lemon, peel ginger"
+      },
+      {
+        "icon": "sun",
+        "color": "#FF5722",
+        "label": "BLEND",
+        "text": "Blend all ingredients until vibrant and smooth"
+      },
+      {
+        "icon": "zap",
+        "color": "#FF9800",
+        "label": "POUR",
+        "text": "Pour into glass with extra ice"
+      },
+      {
+        "icon": "star",
+        "color": "#FFC107",
+        "label": "GARNISH",
+        "text": "Add orange wheel and candied ginger"
+      }
+    ],
+    "nutrition": {
+      "calories": 155,
+      "protein": 3,
+      "fiber": 3,
+      "sugar": 28
+    },
+    "tip": "Spirulina is rich in B vitamins for natural energy production",
+    "variations": [
+      "Add 1/4 tsp cayenne for metabolism boost",
+      "Swap spirulina for chlorella for liver detox benefits",
+      "Blend in 1/4 cup pineapple for digestive enzymes"
+    ],
+    "likes": 278,
+    "createdAt": "2024-09-03T06:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "silk-cascade",
+    "name": "Silk Cascade",
+    "heroIcon": "sparkles",
+    "heroColor": "#E91E63",
+    "tagline": "Collagen-rich beauty smoothie for glowing skin and strong hair",
+    "goal": "beauty",
+    "flavor": "berry",
+    "diet": [
+      "dairy-free",
+      "paleo",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 210,
+    "ingredients": [
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🫐",
+        "name": "Blueberries",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "✨",
+        "name": "Collagen peptides",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Chia seeds",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "droplets",
+        "color": "#EC407A",
+        "label": "PREP",
+        "text": "Soak chia seeds in coconut milk for 2 minutes"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#E91E63",
+        "label": "BLEND",
+        "text": "Add berries, collagen, and honey, blend until creamy"
+      },
+      {
+        "icon": "waves",
+        "color": "#F06292",
+        "label": "POUR",
+        "text": "Pour into glass, watch chia create texture"
+      },
+      {
+        "icon": "flower",
+        "color": "#FF4081",
+        "label": "TOP",
+        "text": "Top with fresh berries and edible flowers"
+      }
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": 12,
+      "fiber": 7,
+      "sugar": 18
+    },
+    "tip": "Best consumed daily for 4-6 weeks to see visible skin improvements",
+    "variations": [
+      "Add 1/4 avocado for healthy fats and creaminess",
+      "Use marine collagen for better absorption",
+      "Blend in 1 tbsp flaxseed for omega-3s"
+    ],
+    "likes": 502,
+    "createdAt": "2024-08-20T09:00:00Z",
+    "featured": true
+  },
+  {
+    "id": "pearl-luminance",
+    "name": "Pearl Luminance",
+    "heroIcon": "moon",
+    "heroColor": "#B39DDB",
+    "tagline": "Vitamin E and biotin-rich elixir for radiant skin from within",
+    "goal": "beauty",
+    "flavor": "nutty",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 285,
+    "ingredients": [
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Shredded coconut",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Hemp hearts",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Vanilla extract",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "nut",
+        "color": "#8D6E63",
+        "label": "ADD",
+        "text": "Combine all nut and seed ingredients in blender"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#B39DDB",
+        "label": "BLEND",
+        "text": "Blend until ultra-smooth and creamy"
+      },
+      {
+        "icon": "moon",
+        "color": "#9575CD",
+        "label": "POUR",
+        "text": "Pour into glass with a swirl motion"
+      },
+      {
+        "icon": "star",
+        "color": "#CE93D8",
+        "label": "TOP",
+        "text": "Sprinkle toasted coconut flakes and hemp hearts"
+      }
+    ],
+    "nutrition": {
+      "calories": 285,
+      "protein": 10,
+      "fiber": 7,
+      "sugar": 16
+    },
+    "tip": "Hemp hearts provide all essential amino acids for skin repair",
+    "variations": [
+      "Add 1/4 cup oats for extra B vitamins",
+      "Blend in 1 tbsp cacao powder for antioxidants",
+      "Use macadamia butter for extra vitamin E"
+    ],
+    "likes": 267,
+    "createdAt": "2024-10-12T10:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "rose-quartz",
+    "name": "Rose Quartz",
+    "heroIcon": "flower",
+    "heroColor": "#F48FB1",
+    "tagline": "Antioxidant-rich pink smoothie with hibiscus and pomegranate glow",
+    "goal": "beauty",
+    "flavor": "berry",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "6 min",
+    "servings": 1,
+    "calories": 175,
+    "ingredients": [
+      {
+        "emoji": "🌺",
+        "name": "Hibiscus tea",
+        "amount": "1 cup chilled"
+      },
+      {
+        "emoji": "🍓",
+        "name": "Strawberries",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🍇",
+        "name": "Pomegranate seeds",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "🍉",
+        "name": "Watermelon",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Fresh mint",
+        "amount": "5 leaves"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "coffee",
+        "color": "#C2185B",
+        "label": "PREP",
+        "text": "Brew hibiscus tea, chill completely"
+      },
+      {
+        "icon": "flower",
+        "color": "#F48FB1",
+        "label": "BLEND",
+        "text": "Blend all fruits with tea and mint"
+      },
+      {
+        "icon": "waves",
+        "color": "#F06292",
+        "label": "POUR",
+        "text": "Pour into glass, let separate into layers"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#FF80AB",
+        "label": "GARNISH",
+        "text": "Float pomegranate seeds and mint sprig on top"
+      }
+    ],
+    "nutrition": {
+      "calories": 175,
+      "protein": 3,
+      "fiber": 6,
+      "sugar": 32
+    },
+    "tip": "Hibiscus is packed with vitamin C and natural AHAs for skin renewal",
+    "variations": [
+      "Add 1/4 cup raspberries for extra ellagic acid",
+      "Blend in 1 tbsp rose water for aromatherapy benefits",
+      "Use frozen dragon fruit for vibrant pink color"
+    ],
+    "likes": 389,
+    "createdAt": "2024-07-25T11:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "alpine-cleanse",
+    "name": "Alpine Cleanse",
+    "heroIcon": "droplets",
+    "heroColor": "#00BCD4",
+    "tagline": "Cucumber and celery flush that hydrates and detoxifies deeply",
+    "goal": "detox",
+    "flavor": "refreshing",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 85,
+    "ingredients": [
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Celery",
+        "amount": "2 stalks"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🌱",
+        "name": "Fresh parsley",
+        "amount": "1/4 cup"
+      },
+      {
+        "emoji": "💧",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#26C6DA",
+        "label": "PREP",
+        "text": "Chop cucumber and celery into chunks"
+      },
+      {
+        "icon": "droplets",
+        "color": "#00BCD4",
+        "label": "BLEND",
+        "text": "Blend all ingredients until smooth and light"
+      },
+      {
+        "icon": "waves",
+        "color": "#00ACC1",
+        "label": "POUR",
+        "text": "Pour into tall glass over ice"
+      },
+      {
+        "icon": "citrus",
+        "color": "#0097A7",
+        "label": "GARNISH",
+        "text": "Add cucumber ribbon and celery leaf"
+      }
+    ],
+    "nutrition": {
+      "calories": 85,
+      "protein": 2,
+      "fiber": 4,
+      "sugar": 14
+    },
+    "tip": "Drink on empty stomach in the morning for best detox results",
+    "variations": [
+      "Add 1/2 inch ginger for digestive support",
+      "Blend in 1/4 fennel bulb for bloating relief",
+      "Use lime instead of lemon for variation"
+    ],
+    "likes": 256,
+    "createdAt": "2024-09-08T07:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "emerald-reset",
+    "name": "Emerald Reset",
+    "heroIcon": "leaf",
+    "heroColor": "#00897B",
+    "tagline": "Chlorophyll-loaded green detox with dandelion and spirulina power",
+    "goal": "detox",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 145,
+    "ingredients": [
+      {
+        "emoji": "🥬",
+        "name": "Dandelion greens",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Spirulina powder",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Granny Smith apple",
+        "amount": "1/2"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1 inch piece"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut water",
+        "amount": "1.5 cups"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#00897B",
+        "label": "PREP",
+        "text": "Wash greens thoroughly, peel ginger"
+      },
+      {
+        "icon": "droplets",
+        "color": "#26A69A",
+        "label": "BLEND",
+        "text": "Blend all ingredients starting low then high"
+      },
+      {
+        "icon": "waves",
+        "color": "#4DB6AC",
+        "label": "POUR",
+        "text": "Strain through nut milk bag if desired"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#80CBC4",
+        "label": "TOP",
+        "text": "Sprinkle extra spirulina powder on top"
+      }
+    ],
+    "nutrition": {
+      "calories": 145,
+      "protein": 5,
+      "fiber": 6,
+      "sugar": 20
+    },
+    "tip": "Dandelion greens support liver detoxification naturally",
+    "variations": [
+      "Add 1/4 lemon with peel for pectin fiber",
+      "Blend in 1 tbsp flaxseed for toxin binding",
+      "Use kale instead of dandelion for milder taste"
+    ],
+    "likes": 219,
+    "createdAt": "2024-11-02T08:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "thunder-muscle",
+    "name": "Thunder Muscle",
+    "heroIcon": "dumbbell",
+    "heroColor": "#1976D2",
+    "tagline": "High-protein beast mode blend with pea protein and peanut butter",
+    "goal": "protein",
+    "flavor": "chocolate",
+    "diet": [
+      "vegan",
+      "high-protein",
+      "dairy-free"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 380,
+    "ingredients": [
+      {
+        "emoji": "🍫",
+        "name": "Vegan chocolate protein",
+        "amount": "1.5 scoops"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Peanut butter",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Soy milk",
+        "amount": "1.5 cups"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Hemp hearts",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🍫",
+        "name": "Cacao powder",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "coffee",
+        "color": "#424242",
+        "label": "ADD",
+        "text": "Add protein, peanut butter, and hemp hearts"
+      },
+      {
+        "icon": "dumbbell",
+        "color": "#1976D2",
+        "label": "BLEND",
+        "text": "Blend with banana and soy milk until thick"
+      },
+      {
+        "icon": "trophy",
+        "color": "#1E88E5",
+        "label": "POUR",
+        "text": "Pour into shaker bottle or large glass"
+      },
+      {
+        "icon": "star",
+        "color": "#2196F3",
+        "label": "TOP",
+        "text": "Dust with cacao powder and crushed peanuts"
+      }
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 32,
+      "fiber": 9,
+      "sugar": 15
+    },
+    "tip": "Contains 32g protein—perfect for muscle building and satiety",
+    "variations": [
+      "Add 1/4 cup oats for extra carbs pre-workout",
+      "Use almond butter instead of peanut for variety",
+      "Blend in 1 tbsp espresso powder for pre-gym energy"
+    ],
+    "likes": 467,
+    "createdAt": "2024-06-15T13:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "vanilla-fortress",
+    "name": "Vanilla Fortress",
+    "heroIcon": "shield",
+    "heroColor": "#F5F5DC",
+    "tagline": "Creamy vanilla protein shake with collagen and Greek yogurt power",
+    "goal": "protein",
+    "flavor": "creamy",
+    "diet": [
+      "high-protein",
+      "paleo"
+    ],
+    "prepTime": "4 min",
+    "servings": 1,
+    "calories": 320,
+    "ingredients": [
+      {
+        "emoji": "🥛",
+        "name": "Greek yogurt",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "✨",
+        "name": "Vanilla protein",
+        "amount": "1 scoop"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Vanilla extract",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "milk",
+        "color": "#FAFAFA",
+        "label": "ADD",
+        "text": "Combine yogurt, protein, and almond butter"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#F5F5DC",
+        "label": "BLEND",
+        "text": "Blend with banana and almond milk until velvety"
+      },
+      {
+        "icon": "shield",
+        "color": "#E0E0E0",
+        "label": "POUR",
+        "text": "Pour into glass, let settle for 20 seconds"
+      },
+      {
+        "icon": "star",
+        "color": "#FFFACD",
+        "label": "TOP",
+        "text": "Top with sliced almonds and vanilla bean seeds"
+      }
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 30,
+      "fiber": 4,
+      "sugar": 16
+    },
+    "tip": "Greek yogurt adds probiotics plus an extra 15g of protein",
+    "variations": [
+      "Add 1/4 cup cottage cheese for even more protein",
+      "Blend in 1 tbsp chia seeds for omega-3s",
+      "Use Madagascar vanilla extract for richer flavor"
+    ],
+    "likes": 354,
+    "createdAt": "2024-08-07T09:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "zen-garden",
+    "name": "Zen Garden",
+    "heroIcon": "flower",
+    "heroColor": "#81C784",
+    "tagline": "Adaptogenic ashwagandha and banana smoothie for deep relaxation",
+    "goal": "calm",
+    "flavor": "creamy",
+    "diet": [
+      "vegan",
+      "dairy-free"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 235,
+    "ingredients": [
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1 large"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Oat milk",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Tahini",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🍄",
+        "name": "Ashwagandha powder",
+        "amount": "1/2 tsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Maple syrup",
+        "amount": "1 tsp"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Vanilla extract",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "flower",
+        "color": "#81C784",
+        "label": "ADD",
+        "text": "Add ashwagandha, tahini, and banana to blender"
+      },
+      {
+        "icon": "moon",
+        "color": "#66BB6A",
+        "label": "BLEND",
+        "text": "Blend with oat milk until smooth and creamy"
+      },
+      {
+        "icon": "droplets",
+        "color": "#AED581",
+        "label": "POUR",
+        "text": "Pour into mug or glass slowly"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#9CCC65",
+        "label": "TOP",
+        "text": "Sprinkle cinnamon and banana slice"
+      }
+    ],
+    "nutrition": {
+      "calories": 235,
+      "protein": 5,
+      "fiber": 5,
+      "sugar": 22
+    },
+    "tip": "Ashwagandha works best when taken consistently for 2-4 weeks",
+    "variations": [
+      "Add 1/4 tsp reishi powder for deeper stress relief",
+      "Blend in 2 dates instead of maple syrup",
+      "Use almond butter instead of tahini for nuttier taste"
+    ],
+    "likes": 298,
+    "createdAt": "2024-10-20T19:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "twilight-calm",
+    "name": "Twilight Calm",
+    "heroIcon": "moon",
+    "heroColor": "#5C6BC0",
+    "tagline": "Magnesium-rich cherry and almond blend for restful sleep prep",
+    "goal": "calm",
+    "flavor": "creamy",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 220,
+    "ingredients": [
+      {
+        "emoji": "🍒",
+        "name": "Tart cherry juice",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥛",
+        "name": "Almond milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "emoji": "🍌",
+        "name": "Frozen banana",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🥜",
+        "name": "Almond butter",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Magnesium powder",
+        "amount": "1/4 tsp"
+      },
+      {
+        "emoji": "🍯",
+        "name": "Honey",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "cherry",
+        "color": "#7986CB",
+        "label": "ADD",
+        "text": "Combine tart cherry juice and almond butter"
+      },
+      {
+        "icon": "moon",
+        "color": "#5C6BC0",
+        "label": "BLEND",
+        "text": "Blend with banana, almond milk, and magnesium"
+      },
+      {
+        "icon": "waves",
+        "color": "#9FA8DA",
+        "label": "POUR",
+        "text": "Pour into glass and let foam settle"
+      },
+      {
+        "icon": "star",
+        "color": "#C5CAE9",
+        "label": "GARNISH",
+        "text": "Float dried cherries on top"
+      }
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 5,
+      "fiber": 4,
+      "sugar": 26
+    },
+    "tip": "Tart cherry naturally boosts melatonin for better sleep quality",
+    "variations": [
+      "Add 1/4 tsp vanilla for extra comfort flavor",
+      "Blend in 1 tbsp chia seeds for sustained satiety",
+      "Use cashew butter for creamier texture"
+    ],
+    "likes": 312,
+    "createdAt": "2024-07-30T20:15:00Z",
+    "featured": false
+  },
+  {
+    "id": "feather-light",
+    "name": "Feather Light",
+    "heroIcon": "citrus",
+    "heroColor": "#FFB300",
+    "tagline": "Low-calorie grapefruit and ginger metabolism booster for fat burn",
+    "goal": "weight-loss",
+    "flavor": "citrus",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 95,
+    "ingredients": [
+      {
+        "emoji": "🍊",
+        "name": "Pink grapefruit",
+        "amount": "1 large"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lemon juice",
+        "amount": "2 tbsp"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1 inch piece"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 small"
+      },
+      {
+        "emoji": "💧",
+        "name": "Coconut water",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Cayenne pepper",
+        "amount": "pinch"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "citrus",
+        "color": "#FFB300",
+        "label": "PREP",
+        "text": "Peel grapefruit, chop apple, and ginger"
+      },
+      {
+        "icon": "flame",
+        "color": "#FF6F00",
+        "label": "BLEND",
+        "text": "Blend all ingredients with cayenne until smooth"
+      },
+      {
+        "icon": "droplets",
+        "color": "#FFA726",
+        "label": "POUR",
+        "text": "Pour over ice in tall glass"
+      },
+      {
+        "icon": "star",
+        "color": "#FFCA28",
+        "label": "GARNISH",
+        "text": "Add grapefruit slice and candied ginger"
+      }
+    ],
+    "nutrition": {
+      "calories": 95,
+      "protein": 2,
+      "fiber": 4,
+      "sugar": 18
+    },
+    "tip": "Grapefruit contains naringenin which helps regulate metabolism",
+    "variations": [
+      "Add 1/2 tsp matcha for extra fat-burning benefits",
+      "Blend in 5 mint leaves for digestive support",
+      "Use lime instead of lemon for tangier flavor"
+    ],
+    "likes": 341,
+    "createdAt": "2024-09-17T07:30:00Z",
+    "featured": false
+  },
+  {
+    "id": "slender-sage",
+    "name": "Slender Sage",
+    "heroIcon": "leaf",
+    "heroColor": "#7CB342",
+    "tagline": "Fiber-packed green smoothie with chia and flax for fullness",
+    "goal": "weight-loss",
+    "flavor": "green",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 165,
+    "ingredients": [
+      {
+        "emoji": "🥬",
+        "name": "Baby kale",
+        "amount": "2 cups"
+      },
+      {
+        "emoji": "🥒",
+        "name": "Cucumber",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🍏",
+        "name": "Green apple",
+        "amount": "1/2 medium"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Chia seeds",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌰",
+        "name": "Ground flaxseed",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "💧",
+        "name": "Water",
+        "amount": "1 cup"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "leaf",
+        "color": "#7CB342",
+        "label": "PREP",
+        "text": "Soak chia seeds in water for 2 minutes"
+      },
+      {
+        "icon": "droplets",
+        "color": "#9CCC65",
+        "label": "BLEND",
+        "text": "Add greens, apple, cucumber, and flax, blend well"
+      },
+      {
+        "icon": "waves",
+        "color": "#AED581",
+        "label": "POUR",
+        "text": "Pour into glass, let chia expand slightly"
+      },
+      {
+        "icon": "sparkles",
+        "color": "#C5E1A5",
+        "label": "TOP",
+        "text": "Sprinkle extra chia seeds on top"
+      }
+    ],
+    "nutrition": {
+      "calories": 165,
+      "protein": 5,
+      "fiber": 11,
+      "sugar": 12
+    },
+    "tip": "11g fiber keeps you full for hours and supports weight loss",
+    "variations": [
+      "Add 1/2 avocado for healthy fats and creaminess",
+      "Blend in 1/4 cup parsley for extra detox",
+      "Use celery instead of cucumber for lower calories"
+    ],
+    "likes": 283,
+    "createdAt": "2024-10-28T08:00:00Z",
+    "featured": false
+  },
+  {
+    "id": "lean-machine",
+    "name": "Lean Machine",
+    "heroIcon": "zap",
+    "heroColor": "#43A047",
+    "tagline": "Thermogenic green tea and pineapple fat-burning accelerator",
+    "goal": "weight-loss",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "low-sugar"
+    ],
+    "prepTime": "5 min",
+    "servings": 1,
+    "calories": 125,
+    "ingredients": [
+      {
+        "emoji": "🍵",
+        "name": "Brewed green tea",
+        "amount": "1 cup chilled"
+      },
+      {
+        "emoji": "🍍",
+        "name": "Frozen pineapple",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🥬",
+        "name": "Baby spinach",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch piece"
+      },
+      {
+        "emoji": "🍋",
+        "name": "Lime juice",
+        "amount": "1 tbsp"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Cayenne pepper",
+        "amount": "small pinch"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "coffee",
+        "color": "#689F38",
+        "label": "PREP",
+        "text": "Brew green tea, let cool completely"
+      },
+      {
+        "icon": "zap",
+        "color": "#43A047",
+        "label": "BLEND",
+        "text": "Blend tea with all ingredients and cayenne"
+      },
+      {
+        "icon": "flame",
+        "color": "#7CB342",
+        "label": "POUR",
+        "text": "Pour into glass over ice"
+      },
+      {
+        "icon": "citrus",
+        "color": "#9CCC65",
+        "label": "GARNISH",
+        "text": "Add pineapple wedge and lime wheel"
+      }
+    ],
+    "nutrition": {
+      "calories": 125,
+      "protein": 2,
+      "fiber": 4,
+      "sugar": 20
+    },
+    "tip": "Green tea's EGCG and pineapple's bromelain work together to boost metabolism",
+    "variations": [
+      "Add 1/4 tsp matcha for double green tea power",
+      "Blend in 5 mint leaves for digestive comfort",
+      "Use white tea for gentler caffeine option"
+    ],
+    "likes": 396,
+    "createdAt": "2024-06-22T09:45:00Z",
+    "featured": false
+  },
+  {
+    "id": "phoenix-rise",
+    "name": "Phoenix Rise",
+    "heroIcon": "flame",
+    "heroColor": "#EF5350",
+    "tagline": "Anti-inflammatory turmeric recovery blend with tart cherry relief",
+    "goal": "recovery",
+    "flavor": "tropical",
+    "diet": [
+      "vegan",
+      "dairy-free",
+      "paleo"
+    ],
+    "prepTime": "6 min",
+    "servings": 1,
+    "calories": 205,
+    "ingredients": [
+      {
+        "emoji": "🍒",
+        "name": "Tart cherry juice",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🥭",
+        "name": "Frozen mango",
+        "amount": "1 cup"
+      },
+      {
+        "emoji": "🧡",
+        "name": "Fresh turmeric",
+        "amount": "1 inch piece"
+      },
+      {
+        "emoji": "🥥",
+        "name": "Coconut milk",
+        "amount": "1/2 cup"
+      },
+      {
+        "emoji": "🫚",
+        "name": "Fresh ginger",
+        "amount": "1/2 inch piece"
+      },
+      {
+        "emoji": "🌶️",
+        "name": "Black pepper",
+        "amount": "pinch"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "citrus",
+        "color": "#FF5722",
+        "label": "PREP",
+        "text": "Peel and chop turmeric and ginger"
+      },
+      {
+        "icon": "flame",
+        "color": "#EF5350",
+        "label": "BLEND",
+        "text": "Blend all ingredients with black pepper until smooth"
+      },
+      {
+        "icon": "sun",
+        "color": "#FF7043",
+        "label": "POUR",
+        "text": "Pour into glass, letting natural foam form"
+      },
+      {
+        "icon": "star",
+        "color": "#FFAB91",
+        "label": "GARNISH",
+        "text": "Top with dried cherries and turmeric dust"
+      }
+    ],
+    "nutrition": {
+      "calories": 205,
+      "protein": 3,
+      "fiber": 4,
+      "sugar": 35
+    },
+    "tip": "Perfect post-workout—tart cherry reduces muscle soreness by up to 50%",
+    "variations": [
+      "Add 1 scoop collagen for joint support",
+      "Blend in 1/4 cup pineapple for bromelain",
+      "Use golden milk spices for extra warmth"
+    ],
+    "likes": 428,
+    "createdAt": "2024-11-09T15:30:00Z",
+    "featured": false
+  }
+]
