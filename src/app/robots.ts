@@ -1,15 +1,12 @@
-import type { MetadataRoute } from 'next';
+import { MetadataRoute } from 'next';
+import { SITE_URL } from '@/lib/constants';
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL
-    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-    : 'https://smoothiebar.cards';
-
   return {
     rules: {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: `${baseUrl}/sitemap.xml`,
+    sitemap: `${SITE_URL}/sitemap.xml`,
   };
 }

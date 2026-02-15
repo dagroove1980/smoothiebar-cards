@@ -1,7 +1,11 @@
 import type { Goal, Flavor, Diet } from '@/types/smoothie';
 
 export const SITE_NAME = 'smoothiebar.cards';
-export const SITE_URL = 'https://smoothiebar.cards';
+export const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ||
+  (process.env.VERCEL_PROJECT_PRODUCTION_URL
+    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+    : 'https://smoothiebar.cards');
 export const SITE_DESCRIPTION =
   'Curated smoothie and juice recipes with full ingredient lists, nutrition info, and step-by-step blending instructions.';
 export const ITEMS_PER_PAGE = 24;
