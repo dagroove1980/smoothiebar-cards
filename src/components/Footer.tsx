@@ -8,8 +8,8 @@ export default function Footer() {
           {/* Tagline */}
           <div>
             <div className="flex items-center gap-0 mb-2">
-              <span className="font-heading text-lg font-bold text-foreground">smoothiebar</span>
-              <span className="font-heading text-lg font-bold text-accent">.cards</span>
+              <span className="font-heading text-lg font-bold text-foreground">SmoothieBar</span>
+              <span className="font-heading text-lg font-bold text-accent">Guide</span>
             </div>
             <p className="text-sm text-secondary max-w-md">
               Curated smoothie recipes for people who want more than just &quot;blend some fruit.&quot;
@@ -22,7 +22,7 @@ export default function Footer() {
               About
             </Link>
             <a
-              href="mailto:hello@smoothiebar.cards"
+              href="mailto:hello@smoothie-bar-guide.com"
               className="hover:text-foreground transition-colors"
             >
               Contact
@@ -33,7 +33,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="mt-8 pt-6 border-t border-border-footer flex items-center justify-between">
           <p className="text-xs text-tertiary">
-            &copy; {new Date().getFullYear()} smoothiebar.cards
+            &copy; {new Date().getFullYear()} SmoothieBarGuide
           </p>
           <div className="flex items-center gap-4 text-xs text-tertiary">
             <span>Instagram</span>

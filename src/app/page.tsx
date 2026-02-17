@@ -9,7 +9,7 @@ import { goalColors, flavorColors } from '@/lib/colors';
 import { getIcon } from '@/lib/icons';
 
 export const metadata: Metadata = {
-  title: 'SmoothieBar.cards — Curated Smoothie & Juice Recipes',
+  title: 'SmoothieBarGuide — Curated Smoothie & Juice Recipes',
   description:
     'Browse 80+ curated smoothie and juice recipes. Filter by goal, flavor, or diet. Full nutrition info, ingredients, and step-by-step blending instructions.',
 };

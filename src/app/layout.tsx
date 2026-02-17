@@ -24,18 +24,18 @@ const ibmPlexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: 'SmoothieBar.cards — Curated Smoothie & Juice Recipes',
-    template: '%s | smoothiebar.cards',
+    default: 'SmoothieBarGuide — Curated Smoothie & Juice Recipes',
+    template: '%s | SmoothieBarGuide',
   },
   description:
     'Curated smoothie and juice recipes with full ingredient lists, nutrition info, and step-by-step blending instructions. Browse by goal, flavor, or diet.',
   metadataBase: new URL(
     process.env.VERCEL_PROJECT_PRODUCTION_URL
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : 'https://smoothiebar.cards'
+      : 'https://smoothie-bar-guide.com'
   ),
   openGraph: {
-    siteName: 'smoothiebar.cards',
+    siteName: 'SmoothieBarGuide',
     type: 'website',
     locale: 'en_US',
   },

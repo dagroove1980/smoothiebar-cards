@@ -9,8 +9,8 @@ export default function Header() {
         {/* Top bar */}
         <div className="flex items-center justify-between h-14">
           <Link href="/" className="flex items-center gap-0">
-            <span className="font-heading text-lg font-bold text-foreground">smoothiebar</span>
-            <span className="font-heading text-lg font-bold text-accent">.cards</span>
+            <span className="font-heading text-lg font-bold text-foreground">SmoothieBar</span>
+            <span className="font-heading text-lg font-bold text-accent">Guide</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-6 text-sm text-secondary">
