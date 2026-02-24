@@ -4,7 +4,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import SmoothieGrid from '@/components/SmoothieGrid';
 import { getAllSmoothies, sortSmoothies } from '@/lib/smoothies';
-import { ALL_GOALS, ALL_FLAVORS, ALL_DIETS, goalLabels, flavorLabels, dietLabels, goalIcons, flavorIcons } from '@/lib/constants';
+import { SITE_NAME, SITE_URL, SITE_DESCRIPTION, ALL_GOALS, ALL_FLAVORS, ALL_DIETS, goalLabels, flavorLabels, dietLabels, goalIcons, flavorIcons } from '@/lib/constants';
 import { goalColors, flavorColors } from '@/lib/colors';
 import { getIcon } from '@/lib/icons';
 
@@ -22,8 +22,28 @@ export default function HomePage() {
   ).slice(0, 6);
   const popular = sortSmoothies(allSmoothies, 'popular').slice(0, 6);
 
+  const websiteStructuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE_NAME,
+    url: SITE_URL,
+    description: SITE_DESCRIPTION,
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: `${SITE_URL}/?q={search_term_string}`,
+      },
+      'query-input': 'required name=search_term_string',
+    },
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteStructuredData) }}
+      />
       <Header />
       <main className="max-w-6xl mx-auto px-4 pt-10 pb-20">
         {/* Hero */}
